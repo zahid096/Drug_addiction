@@ -1,0 +1,1001 @@
+Age,Gender,Family History of Addiction,Mental Health Issues,Past Drug Use,Peer Pressure,Stress or Trauma,Social Isolation,How Often They Use Drugs,Work or School Problems,Health Problems,Access to Drugs,Why They Use Drugs,Trying to Quit,Addicted (Yes/No)
+41,Male,Yes,No,No,No,No,Yes,Daily,Poor,No,Easy,Other,Yes,No
+54,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,Hard,Stress Relief,No,Yes
+49,Female,No,No,Yes,Yes,No,No,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+54,Female,No,No,No,Yes,Yes,No,Daily,Excellent,Yes,Easy,No Motivation,No,No
+60,Female,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Average,Yes,Hard,No Motivation,Yes,No
+27,Male,Yes,Yes,No,No,No,No,Occasionally,Poor,Yes,Hard,Other,No,No
+48,Female,Yes,Yes,No,Yes,No,Yes,Occasionally,Excellent,No,Hard,Stress Relief,No,No
+28,Male,Yes,No,Yes,No,Yes,Yes,Rarely,Average,No,No Access,Fit In,No,No
+41,Female,No,Yes,No,No,No,Yes,Occasionally,Poor,Yes,Hard,Stress Relief,No,Yes
+34,Male,No,Yes,Yes,Yes,No,No,Daily,Poor,Yes,Hard,Curiosity,Yes,Yes
+57,Male,Yes,Yes,No,Yes,No,Yes,Daily,Poor,No,Hard,Fit In,No,Yes
+25,Female,No,No,No,No,Yes,Yes,Regularly,Poor,Yes,No Access,Other,No,Yes
+40,Female,Yes,Yes,No,Yes,Yes,No,Rarely,Excellent,No,Hard,Curiosity,Yes,No
+19,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Average,No,Hard,Curiosity,Yes,No
+52,Female,Yes,Yes,Yes,Yes,No,Yes,Rarely,Excellent,No,Easy,Fit In,Yes,No
+48,Male,Yes,No,Yes,Yes,Yes,No,Occasionally,Average,No,Easy,Stress Relief,No,No
+34,Female,Yes,Yes,No,No,Yes,Yes,Occasionally,Poor,No,No Access,Fit In,Yes,No
+28,Female,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,Yes,No
+50,Male,No,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Hard,Other,Yes,Yes
+47,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Poor,No,Easy,Other,No,No
+48,Male,Yes,Yes,No,Yes,Yes,No,Regularly,Excellent,Yes,No Access,No Motivation,Yes,No
+32,Male,Yes,No,No,Yes,No,No,Occasionally,Excellent,No,Easy,Fit In,No,No
+53,Male,No,No,Yes,No,Yes,No,Daily,Average,Yes,No Access,Other,No,Yes
+37,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Other,No,No
+37,Male,No,No,No,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,No
+18,Female,No,No,No,Yes,Yes,No,Occasionally,Average,No,Easy,Curiosity,No,No
+47,Female,Yes,No,Yes,Yes,Yes,No,Rarely,Average,No,No Access,Curiosity,Yes,No
+42,Female,No,No,No,No,No,No,Rarely,Average,Yes,No Access,Curiosity,Yes,No
+57,Female,Yes,Yes,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Fit In,Yes,Yes
+46,Female,Yes,No,Yes,Yes,No,No,Regularly,Average,No,Hard,Fit In,Yes,Yes
+33,Male,Yes,No,No,Yes,No,Yes,Regularly,Excellent,Yes,Hard,Fit In,Yes,Yes
+35,Female,No,No,No,No,Yes,No,Regularly,Average,Yes,Easy,Stress Relief,No,Yes
+27,Female,No,No,Yes,No,No,No,Rarely,Average,Yes,No Access,Stress Relief,No,Yes
+57,Female,No,Yes,Yes,No,Yes,No,Daily,Poor,No,Easy,Fit In,No,Yes
+41,Female,No,No,Yes,Yes,Yes,No,Daily,Poor,No,Easy,No Motivation,Yes,Yes
+24,Male,No,Yes,Yes,Yes,No,Yes,Daily,Average,No,Easy,Other,Yes,No
+48,Male,Yes,No,Yes,Yes,Yes,No,Occasionally,Average,No,Hard,Curiosity,No,No
+41,Male,No,No,Yes,No,No,No,Daily,Excellent,Yes,Easy,Other,Yes,Yes
+52,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,Yes,Easy,Fit In,No,Yes
+26,Male,No,No,Yes,No,Yes,No,Rarely,Average,No,Hard,Other,Yes,No
+36,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Average,Yes,Hard,Fit In,No,Yes
+22,Female,Yes,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,No Access,Fit In,No,Yes
+53,Female,No,No,No,Yes,Yes,No,Daily,Average,Yes,Easy,Stress Relief,Yes,Yes
+26,Female,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Easy,Fit In,Yes,Yes
+39,Male,No,Yes,No,Yes,No,Yes,Daily,Average,Yes,Easy,Curiosity,Yes,No
+56,Female,Yes,Yes,No,Yes,Yes,Yes,Occasionally,Excellent,No,Hard,Curiosity,Yes,No
+46,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,Easy,Curiosity,No,No
+56,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Poor,No,Hard,Stress Relief,Yes,Yes
+31,Female,No,No,No,No,Yes,No,Rarely,Poor,Yes,Hard,No Motivation,No,No
+40,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Hard,No Motivation,Yes,Yes
+25,Male,Yes,Yes,No,Yes,No,Yes,Regularly,Poor,Yes,Hard,Other,Yes,Yes
+40,Male,No,Yes,No,Yes,No,Yes,Daily,Average,No,Easy,No Motivation,No,No
+41,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Stress Relief,Yes,Yes
+43,Male,No,Yes,No,Yes,Yes,Yes,Daily,Excellent,No,Hard,Curiosity,No,No
+60,Female,No,Yes,No,No,No,No,Regularly,Average,No,Hard,Other,No,No
+44,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Curiosity,No,No
+38,Male,Yes,Yes,Yes,No,Yes,No,Occasionally,Poor,No,Easy,Fit In,Yes,Yes
+44,Male,Yes,Yes,Yes,No,Yes,No,Daily,Average,No,No Access,No Motivation,No,No
+36,Female,No,No,No,Yes,Yes,No,Occasionally,Excellent,No,Hard,Other,No,No
+49,Male,Yes,No,No,Yes,No,No,Regularly,Excellent,No,Easy,No Motivation,No,No
+40,Female,No,Yes,Yes,No,No,No,Daily,Poor,No,No Access,Fit In,Yes,Yes
+58,Male,No,Yes,Yes,No,No,No,Rarely,Average,No,Hard,Curiosity,No,No
+52,Female,No,Yes,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Stress Relief,No,Yes
+43,Male,Yes,Yes,Yes,No,No,Yes,Daily,Average,No,Easy,Fit In,No,Yes
+35,Female,No,Yes,No,No,Yes,Yes,Rarely,Average,Yes,Hard,Fit In,No,No
+36,Female,Yes,No,Yes,No,No,No,Occasionally,Poor,No,Easy,Other,Yes,No
+33,Male,Yes,No,Yes,No,Yes,Yes,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+50,Female,Yes,Yes,No,No,No,Yes,Regularly,Excellent,No,No Access,Curiosity,Yes,No
+29,Male,Yes,No,Yes,No,No,No,Regularly,Average,Yes,No Access,Stress Relief,Yes,Yes
+49,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Other,Yes,No
+48,Female,No,No,No,No,Yes,Yes,Daily,Excellent,Yes,No Access,Fit In,No,Yes
+25,Male,No,No,Yes,Yes,No,No,Occasionally,Average,Yes,No Access,No Motivation,Yes,No
+44,Male,Yes,Yes,No,No,Yes,No,Rarely,Poor,Yes,No Access,Other,No,No
+44,Female,No,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Curiosity,No,No
+51,Female,No,Yes,Yes,Yes,No,No,Rarely,Average,Yes,No Access,Other,No,No
+51,Male,Yes,Yes,Yes,No,Yes,No,Rarely,Poor,No,Hard,Stress Relief,No,Yes
+43,Male,No,No,Yes,Yes,Yes,Yes,Regularly,Excellent,No,Hard,Fit In,Yes,Yes
+50,Male,Yes,Yes,Yes,No,No,Yes,Regularly,Poor,Yes,Hard,Fit In,Yes,Yes
+54,Male,No,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+29,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,No Access,Curiosity,No,Yes
+33,Male,No,Yes,Yes,No,Yes,Yes,Regularly,Excellent,Yes,Easy,Curiosity,No,Yes
+37,Female,Yes,No,No,No,No,No,Rarely,Excellent,Yes,Hard,Fit In,No,No
+56,Male,No,Yes,Yes,No,No,No,Rarely,Excellent,No,Easy,No Motivation,Yes,No
+35,Female,Yes,Yes,Yes,Yes,No,Yes,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+46,Male,No,No,No,Yes,Yes,No,Rarely,Poor,Yes,Hard,No Motivation,Yes,No
+43,Female,No,Yes,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Stress Relief,No,Yes
+43,Male,No,No,No,Yes,Yes,No,Rarely,Poor,No,Hard,No Motivation,No,No
+49,Female,Yes,No,No,No,No,Yes,Occasionally,Poor,No,Easy,No Motivation,No,No
+18,Female,No,No,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,Hard,Fit In,Yes,Yes
+19,Female,No,Yes,Yes,Yes,No,No,Rarely,Average,No,Easy,No Motivation,Yes,No
+54,Male,No,Yes,No,Yes,No,Yes,Rarely,Average,Yes,Easy,Fit In,No,No
+58,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Poor,No,No Access,No Motivation,No,No
+52,Female,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+59,Female,No,Yes,No,No,No,Yes,Rarely,Excellent,Yes,Easy,Stress Relief,No,No
+53,Female,No,Yes,No,Yes,Yes,No,Rarely,Average,No,Hard,Curiosity,Yes,No
+30,Male,No,Yes,No,Yes,Yes,No,Rarely,Average,No,Easy,Stress Relief,No,No
+52,Female,Yes,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,Curiosity,No,No
+21,Male,Yes,No,No,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,Yes,No
+20,Female,Yes,No,No,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,No,No
+19,Male,No,Yes,No,No,No,No,Regularly,Excellent,Yes,No Access,Fit In,No,Yes
+54,Male,No,Yes,No,No,Yes,Yes,Rarely,Average,Yes,No Access,Fit In,No,No
+21,Female,Yes,No,No,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+53,Female,Yes,No,Yes,No,No,Yes,Occasionally,Average,Yes,Hard,Fit In,Yes,Yes
+38,Female,Yes,No,No,No,Yes,No,Regularly,Poor,No,Easy,Curiosity,No,No
+22,Female,Yes,No,No,No,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+56,Male,No,Yes,No,Yes,Yes,Yes,Occasionally,Poor,Yes,No Access,Curiosity,No,No
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,No Access,Curiosity,Yes,Yes
+47,Male,No,Yes,No,No,No,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+28,Male,Yes,Yes,No,No,No,No,Regularly,Average,Yes,Easy,No Motivation,No,No
+58,Male,Yes,No,Yes,No,No,Yes,Rarely,Average,Yes,No Access,Other,Yes,No
+18,Female,Yes,No,Yes,Yes,No,Yes,Rarely,Excellent,No,Easy,Stress Relief,Yes,No
+31,Male,Yes,Yes,Yes,Yes,No,Yes,Regularly,Average,No,Hard,Stress Relief,Yes,Yes
+55,Male,Yes,Yes,No,No,No,No,Daily,Poor,Yes,Hard,Curiosity,No,Yes
+57,Male,Yes,Yes,No,Yes,Yes,No,Occasionally,Excellent,Yes,Hard,No Motivation,No,No
+22,Male,No,Yes,No,Yes,No,Yes,Rarely,Excellent,No,No Access,No Motivation,No,No
+19,Female,No,Yes,No,Yes,No,Yes,Daily,Poor,Yes,Hard,Fit In,Yes,Yes
+25,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,No Access,Fit In,Yes,Yes
+42,Male,No,No,No,No,No,No,Regularly,Average,No,Hard,No Motivation,Yes,No
+41,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,No,Yes
+50,Female,No,Yes,No,Yes,No,Yes,Daily,Excellent,No,Hard,No Motivation,Yes,No
+29,Female,No,No,Yes,No,Yes,No,Regularly,Average,No,Easy,Curiosity,No,No
+46,Female,Yes,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Curiosity,Yes,No
+39,Male,Yes,No,No,Yes,No,No,Rarely,Average,No,No Access,Other,Yes,No
+57,Female,Yes,Yes,Yes,No,No,No,Occasionally,Poor,No,Easy,Curiosity,No,No
+26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Regularly,Average,Yes,No Access,Curiosity,No,Yes
+26,Female,No,Yes,No,Yes,No,Yes,Daily,Excellent,No,No Access,Stress Relief,Yes,No
+28,Female,No,Yes,Yes,Yes,Yes,Yes,Daily,Poor,No,Hard,Curiosity,No,Yes
+26,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,Yes,Hard,Curiosity,No,Yes
+35,Female,Yes,Yes,Yes,No,No,Yes,Regularly,Poor,No,Hard,Fit In,Yes,Yes
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+29,Male,Yes,Yes,Yes,Yes,No,No,Occasionally,Average,No,No Access,Curiosity,No,No
+57,Female,Yes,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Fit In,No,Yes
+44,Female,Yes,No,No,No,No,No,Rarely,Average,Yes,No Access,Stress Relief,No,No
+33,Male,Yes,Yes,Yes,No,No,No,Daily,Excellent,No,No Access,Stress Relief,No,Yes
+59,Male,Yes,Yes,No,Yes,Yes,No,Occasionally,Poor,No,No Access,No Motivation,No,No
+48,Female,No,Yes,Yes,Yes,No,Yes,Daily,Excellent,Yes,Hard,Fit In,No,Yes
+19,Male,Yes,No,Yes,No,No,Yes,Regularly,Poor,Yes,Easy,Fit In,Yes,Yes
+27,Male,No,No,No,Yes,No,No,Occasionally,Average,Yes,Hard,Fit In,No,No
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Daily,Excellent,No,No Access,Curiosity,No,No
+51,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Poor,No,Hard,Other,Yes,No
+50,Male,No,No,No,Yes,No,No,Daily,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+45,Male,No,No,Yes,No,No,Yes,Rarely,Excellent,No,Hard,No Motivation,No,No
+21,Male,No,No,No,Yes,No,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+49,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+35,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Poor,No,Hard,No Motivation,Yes,No
+36,Male,No,Yes,No,No,No,No,Daily,Average,Yes,Hard,Other,No,No
+27,Female,No,No,No,No,Yes,Yes,Rarely,Poor,No,Hard,Curiosity,Yes,No
+49,Female,No,No,No,No,No,Yes,Occasionally,Average,No,Hard,Stress Relief,Yes,No
+27,Female,No,No,No,Yes,No,No,Regularly,Excellent,Yes,Easy,Stress Relief,No,Yes
+22,Male,No,Yes,No,No,No,Yes,Regularly,Poor,No,Hard,No Motivation,No,No
+35,Female,Yes,No,No,No,No,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+35,Male,Yes,No,No,No,No,No,Rarely,Average,No,No Access,Stress Relief,No,No
+25,Female,No,No,Yes,Yes,No,No,Rarely,Poor,Yes,Hard,Curiosity,No,Yes
+42,Female,No,No,Yes,Yes,No,Yes,Daily,Excellent,No,No Access,Curiosity,No,No
+45,Female,No,Yes,Yes,No,Yes,Yes,Rarely,Average,Yes,Easy,No Motivation,Yes,No
+39,Female,No,Yes,Yes,Yes,No,No,Rarely,Average,Yes,Easy,Curiosity,Yes,No
+29,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,Yes,No Access,No Motivation,Yes,No
+39,Female,Yes,No,No,No,Yes,Yes,Regularly,Average,Yes,Hard,Other,Yes,No
+39,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+42,Female,Yes,No,No,Yes,Yes,No,Rarely,Average,Yes,Hard,Fit In,No,No
+44,Male,No,No,No,No,Yes,No,Daily,Average,No,Hard,Fit In,No,No
+43,Female,Yes,Yes,Yes,Yes,No,No,Daily,Average,Yes,Hard,No Motivation,No,Yes
+25,Male,No,Yes,No,Yes,No,No,Rarely,Excellent,No,Hard,Fit In,No,No
+27,Male,Yes,No,No,Yes,No,No,Daily,Average,No,Hard,No Motivation,No,No
+56,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Excellent,No,Easy,No Motivation,No,No
+60,Female,No,No,Yes,Yes,No,No,Occasionally,Average,Yes,Hard,Curiosity,Yes,No
+29,Male,No,Yes,No,Yes,No,Yes,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,No
+49,Male,Yes,Yes,No,Yes,No,No,Rarely,Average,Yes,No Access,Other,Yes,No
+53,Female,No,Yes,No,No,No,No,Regularly,Poor,Yes,Easy,Other,No,Yes
+56,Male,No,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+55,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+25,Female,No,Yes,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,No Motivation,Yes,Yes
+30,Male,Yes,No,No,No,Yes,No,Daily,Average,Yes,Easy,Fit In,No,Yes
+52,Male,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Excellent,Yes,Hard,Fit In,Yes,Yes
+54,Female,No,Yes,Yes,No,Yes,No,Rarely,Poor,No,Hard,Other,Yes,No
+52,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Hard,No Motivation,Yes,No
+51,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+18,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,No Access,Fit In,Yes,Yes
+42,Female,Yes,No,Yes,No,Yes,Yes,Daily,Excellent,No,Hard,No Motivation,No,No
+23,Female,No,No,Yes,No,Yes,No,Rarely,Poor,No,No Access,Fit In,Yes,Yes
+54,Female,Yes,No,Yes,No,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,Yes
+56,Female,Yes,Yes,No,No,Yes,No,Occasionally,Poor,Yes,No Access,Stress Relief,No,Yes
+27,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,No Access,No Motivation,Yes,No
+39,Female,No,No,Yes,Yes,Yes,No,Rarely,Average,No,Hard,Stress Relief,No,No
+31,Male,Yes,Yes,Yes,No,Yes,No,Rarely,Average,No,Hard,Curiosity,No,No
+49,Male,Yes,No,Yes,No,No,No,Daily,Poor,No,Hard,Other,No,Yes
+33,Male,Yes,Yes,No,Yes,Yes,No,Rarely,Poor,Yes,Easy,Curiosity,Yes,No
+51,Male,No,No,No,Yes,No,No,Rarely,Excellent,Yes,Hard,Stress Relief,No,No
+28,Female,No,Yes,No,No,Yes,No,Regularly,Excellent,Yes,Hard,Curiosity,No,No
+29,Female,Yes,No,No,Yes,No,No,Occasionally,Average,No,Hard,Fit In,No,No
+46,Female,Yes,Yes,Yes,No,Yes,No,Occasionally,Poor,Yes,Easy,Stress Relief,No,Yes
+33,Male,No,Yes,Yes,Yes,No,No,Regularly,Poor,No,No Access,Fit In,No,Yes
+58,Male,No,No,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+21,Female,Yes,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,No,Easy,Stress Relief,Yes,Yes
+46,Male,No,No,Yes,No,Yes,Yes,Daily,Excellent,Yes,No Access,Other,No,Yes
+18,Male,Yes,No,Yes,No,Yes,Yes,Occasionally,Average,No,Hard,Other,No,No
+47,Female,Yes,No,No,Yes,Yes,No,Rarely,Average,No,No Access,No Motivation,Yes,No
+36,Female,Yes,Yes,Yes,No,No,No,Rarely,Average,Yes,Easy,Other,Yes,No
+46,Male,No,No,No,No,Yes,Yes,Regularly,Excellent,Yes,Easy,No Motivation,No,No
+33,Male,No,No,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Easy,Fit In,No,Yes
+49,Female,Yes,Yes,No,Yes,Yes,No,Rarely,Excellent,Yes,No Access,Stress Relief,Yes,No
+58,Male,No,No,Yes,No,Yes,Yes,Regularly,Poor,Yes,Easy,Stress Relief,No,Yes
+30,Male,Yes,Yes,Yes,No,Yes,Yes,Rarely,Poor,Yes,No Access,Curiosity,Yes,Yes
+27,Female,Yes,Yes,Yes,No,No,No,Rarely,Excellent,No,Easy,Fit In,Yes,No
+31,Male,No,Yes,No,No,No,Yes,Occasionally,Excellent,No,Easy,Fit In,Yes,No
+21,Male,Yes,Yes,Yes,No,No,No,Rarely,Poor,Yes,Hard,Fit In,Yes,Yes
+57,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,No Motivation,No,No
+45,Male,Yes,Yes,No,Yes,No,No,Occasionally,Excellent,Yes,Hard,Curiosity,No,No
+60,Male,No,No,Yes,No,Yes,No,Occasionally,Average,No,No Access,Stress Relief,Yes,No
+59,Male,No,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Fit In,Yes,Yes
+18,Female,No,Yes,Yes,No,No,Yes,Occasionally,Poor,No,No Access,No Motivation,No,No
+46,Female,No,No,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Fit In,Yes,No
+22,Male,Yes,No,No,Yes,Yes,No,Rarely,Poor,Yes,No Access,Stress Relief,No,Yes
+21,Female,Yes,Yes,Yes,No,No,Yes,Occasionally,Average,Yes,No Access,Fit In,Yes,Yes
+38,Male,No,No,Yes,No,Yes,Yes,Daily,Poor,No,Hard,Other,Yes,Yes
+39,Female,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,No,Hard,Fit In,No,Yes
+28,Female,No,Yes,No,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,Yes,No
+58,Male,Yes,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,Yes,Yes
+18,Female,No,Yes,No,No,No,Yes,Rarely,Average,No,No Access,Fit In,No,No
+24,Female,No,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,No Access,Curiosity,No,No
+56,Male,Yes,No,Yes,Yes,No,No,Regularly,Average,No,Hard,Fit In,Yes,Yes
+27,Male,Yes,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Easy,Curiosity,Yes,Yes
+28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,Curiosity,No,No
+20,Female,No,No,No,No,No,No,Rarely,Average,No,No Access,Fit In,Yes,No
+46,Male,No,No,Yes,No,No,Yes,Occasionally,Average,No,Hard,Other,No,No
+52,Female,Yes,No,No,No,Yes,No,Occasionally,Average,No,Hard,Stress Relief,Yes,No
+55,Male,No,No,Yes,No,Yes,No,Occasionally,Poor,Yes,Easy,No Motivation,Yes,Yes
+58,Male,Yes,Yes,No,Yes,No,No,Regularly,Poor,No,Easy,No Motivation,No,No
+30,Female,Yes,No,No,Yes,No,Yes,Occasionally,Average,Yes,Easy,Fit In,Yes,No
+30,Female,Yes,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+50,Male,Yes,No,No,Yes,No,Yes,Occasionally,Excellent,No,No Access,Fit In,No,No
+49,Male,Yes,No,No,No,Yes,Yes,Daily,Poor,No,Easy,No Motivation,No,No
+48,Male,No,No,Yes,Yes,No,Yes,Occasionally,Excellent,No,Easy,Stress Relief,Yes,No
+19,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,No Access,Curiosity,No,No
+44,Male,No,No,No,No,Yes,Yes,Occasionally,Excellent,No,Easy,Other,Yes,No
+21,Female,No,No,No,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,Yes,No
+39,Female,No,No,No,Yes,No,Yes,Daily,Average,Yes,Easy,Curiosity,Yes,No
+20,Male,No,Yes,Yes,No,No,Yes,Daily,Average,No,No Access,Curiosity,No,No
+50,Male,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,Yes,Hard,Stress Relief,Yes,Yes
+43,Male,No,No,No,Yes,No,Yes,Occasionally,Average,Yes,Easy,Other,No,No
+20,Male,Yes,Yes,No,No,No,Yes,Daily,Excellent,No,Hard,No Motivation,Yes,No
+48,Male,Yes,No,No,Yes,No,Yes,Regularly,Poor,Yes,Easy,Stress Relief,Yes,Yes
+54,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Average,Yes,Easy,Fit In,No,Yes
+50,Female,Yes,Yes,No,No,No,Yes,Daily,Average,Yes,Hard,Stress Relief,Yes,Yes
+24,Female,No,No,Yes,Yes,Yes,No,Rarely,Excellent,No,Hard,Curiosity,No,No
+28,Female,Yes,Yes,No,Yes,Yes,Yes,Daily,Excellent,No,Hard,Curiosity,No,No
+41,Female,Yes,No,Yes,No,No,Yes,Occasionally,Average,No,Easy,Curiosity,No,No
+32,Female,No,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,Hard,Fit In,Yes,Yes
+31,Female,No,Yes,No,Yes,Yes,Yes,Regularly,Poor,Yes,Easy,Other,Yes,Yes
+30,Male,Yes,No,Yes,No,Yes,No,Daily,Average,Yes,Easy,Fit In,Yes,Yes
+18,Female,Yes,Yes,No,Yes,No,Yes,Daily,Poor,No,Easy,Fit In,Yes,Yes
+36,Female,Yes,Yes,No,Yes,No,No,Regularly,Average,No,Easy,Other,No,No
+53,Male,Yes,No,Yes,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Fit In,No,No
+42,Female,Yes,No,No,No,No,Yes,Daily,Average,Yes,No Access,Other,Yes,No
+23,Male,No,Yes,No,No,Yes,No,Daily,Poor,No,Easy,Fit In,No,Yes
+46,Male,No,Yes,No,Yes,No,Yes,Regularly,Poor,No,Hard,Curiosity,No,No
+22,Female,No,Yes,No,Yes,Yes,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+18,Male,Yes,No,Yes,No,Yes,Yes,Regularly,Excellent,No,Hard,Stress Relief,No,Yes
+56,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Other,Yes,No
+20,Female,No,Yes,No,No,No,Yes,Rarely,Poor,No,Hard,Fit In,Yes,No
+47,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+41,Male,Yes,Yes,Yes,Yes,Yes,No,Daily,Average,Yes,No Access,Fit In,No,Yes
+44,Male,Yes,No,No,No,Yes,No,Daily,Average,Yes,No Access,Other,Yes,No
+45,Male,No,Yes,No,No,No,No,Daily,Poor,Yes,No Access,Other,Yes,Yes
+26,Female,Yes,Yes,No,No,Yes,No,Rarely,Average,No,No Access,No Motivation,No,No
+41,Female,No,No,Yes,No,Yes,No,Rarely,Average,No,Easy,Fit In,Yes,No
+20,Male,No,No,Yes,Yes,Yes,Yes,Regularly,Excellent,No,Hard,Fit In,No,Yes
+43,Male,Yes,Yes,No,No,Yes,Yes,Rarely,Poor,No,No Access,Curiosity,Yes,No
+56,Female,No,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,Easy,Fit In,Yes,Yes
+22,Male,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Easy,Stress Relief,Yes,Yes
+41,Male,No,No,No,No,Yes,Yes,Regularly,Excellent,No,Hard,No Motivation,No,No
+39,Male,Yes,Yes,No,Yes,No,No,Regularly,Poor,Yes,Easy,No Motivation,Yes,Yes
+42,Male,No,No,Yes,No,No,Yes,Rarely,Average,No,Hard,Stress Relief,Yes,No
+52,Female,No,No,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Fit In,Yes,Yes
+29,Female,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,No Access,Curiosity,No,No
+29,Female,Yes,No,Yes,No,No,Yes,Daily,Excellent,No,No Access,Stress Relief,No,Yes
+48,Female,Yes,No,No,No,Yes,No,Daily,Poor,No,Hard,Curiosity,Yes,No
+30,Male,Yes,Yes,Yes,Yes,No,No,Daily,Average,Yes,Hard,Curiosity,No,Yes
+51,Female,No,No,Yes,Yes,No,Yes,Rarely,Excellent,Yes,No Access,Curiosity,No,No
+59,Male,Yes,Yes,Yes,No,No,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+57,Male,Yes,No,Yes,No,Yes,Yes,Daily,Poor,Yes,Hard,Fit In,No,Yes
+56,Male,No,Yes,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Curiosity,No,No
+26,Female,No,No,No,No,Yes,Yes,Daily,Average,Yes,No Access,Fit In,Yes,Yes
+38,Male,No,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Stress Relief,No,Yes
+54,Female,Yes,No,Yes,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,Yes,No
+20,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,No,No Access,Stress Relief,Yes,No
+21,Female,Yes,No,Yes,Yes,No,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+20,Female,Yes,No,Yes,Yes,Yes,Yes,Rarely,Excellent,Yes,No Access,No Motivation,No,No
+44,Female,Yes,Yes,No,Yes,No,No,Regularly,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+49,Female,Yes,No,Yes,Yes,Yes,Yes,Regularly,Excellent,No,Hard,Stress Relief,No,Yes
+59,Female,Yes,No,No,Yes,No,No,Daily,Poor,No,No Access,Fit In,Yes,Yes
+51,Female,Yes,No,Yes,No,No,No,Occasionally,Excellent,No,No Access,Fit In,No,No
+24,Female,Yes,Yes,Yes,No,No,Yes,Rarely,Poor,No,No Access,Stress Relief,Yes,Yes
+27,Female,No,Yes,Yes,Yes,Yes,Yes,Occasionally,Excellent,No,Hard,Stress Relief,No,No
+59,Female,Yes,Yes,Yes,No,Yes,No,Daily,Excellent,No,Easy,Other,Yes,No
+44,Male,No,No,Yes,Yes,Yes,No,Occasionally,Poor,Yes,Easy,Fit In,No,Yes
+50,Female,Yes,Yes,Yes,No,No,No,Daily,Average,Yes,Hard,Fit In,Yes,Yes
+19,Female,No,Yes,No,Yes,No,Yes,Rarely,Average,No,No Access,Fit In,Yes,No
+57,Female,No,Yes,Yes,No,Yes,Yes,Regularly,Average,Yes,Hard,Fit In,No,Yes
+42,Female,Yes,Yes,No,No,No,No,Daily,Average,Yes,No Access,Fit In,Yes,Yes
+33,Female,No,No,No,Yes,Yes,No,Daily,Average,Yes,Hard,Other,Yes,No
+19,Female,No,Yes,Yes,No,No,Yes,Rarely,Excellent,Yes,Hard,Fit In,Yes,Yes
+47,Male,No,No,Yes,Yes,Yes,Yes,Rarely,Poor,No,Hard,Stress Relief,Yes,Yes
+41,Female,No,Yes,Yes,No,No,No,Regularly,Poor,Yes,Hard,Other,No,Yes
+32,Female,Yes,No,Yes,No,No,Yes,Rarely,Excellent,Yes,No Access,Curiosity,Yes,No
+22,Male,Yes,Yes,Yes,Yes,Yes,No,Rarely,Poor,Yes,Easy,Fit In,No,Yes
+36,Female,Yes,Yes,Yes,No,Yes,Yes,Rarely,Poor,Yes,Hard,Other,No,Yes
+43,Male,Yes,Yes,No,Yes,No,No,Occasionally,Average,No,Easy,No Motivation,No,No
+19,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Average,No,Easy,No Motivation,No,No
+25,Male,Yes,No,No,No,No,Yes,Regularly,Poor,No,Hard,Fit In,Yes,Yes
+50,Female,Yes,No,Yes,No,Yes,Yes,Rarely,Average,No,Hard,No Motivation,Yes,No
+55,Male,Yes,No,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Other,Yes,Yes
+24,Female,Yes,No,Yes,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,No,Yes
+28,Female,Yes,No,Yes,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,Yes,Yes
+46,Female,Yes,Yes,Yes,No,Yes,No,Regularly,Average,No,Hard,Other,Yes,No
+26,Female,No,No,No,No,Yes,No,Occasionally,Poor,No,Hard,Stress Relief,Yes,No
+31,Female,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+57,Female,Yes,No,No,Yes,Yes,No,Regularly,Average,Yes,No Access,No Motivation,No,No
+41,Male,No,Yes,Yes,Yes,No,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+54,Male,Yes,No,No,No,No,No,Daily,Average,Yes,Hard,Curiosity,No,No
+30,Male,No,Yes,Yes,No,No,No,Daily,Average,Yes,Hard,Fit In,Yes,Yes
+57,Male,Yes,No,No,No,No,Yes,Regularly,Poor,Yes,Easy,Fit In,Yes,Yes
+38,Male,No,Yes,Yes,No,No,No,Daily,Excellent,No,Easy,Stress Relief,Yes,Yes
+32,Female,Yes,Yes,Yes,No,Yes,No,Occasionally,Average,Yes,Hard,No Motivation,No,No
+24,Male,No,No,Yes,Yes,Yes,No,Regularly,Average,No,No Access,Curiosity,Yes,No
+24,Female,Yes,Yes,Yes,Yes,No,No,Daily,Excellent,No,No Access,No Motivation,No,No
+51,Male,No,Yes,No,Yes,Yes,No,Rarely,Excellent,Yes,No Access,Curiosity,Yes,No
+48,Female,Yes,Yes,Yes,No,Yes,No,Daily,Excellent,No,Easy,Fit In,Yes,Yes
+46,Male,Yes,No,No,No,No,Yes,Regularly,Average,No,Hard,Fit In,No,No
+22,Female,Yes,No,Yes,Yes,Yes,Yes,Daily,Excellent,No,No Access,Other,No,No
+40,Female,Yes,Yes,Yes,No,No,No,Rarely,Average,No,Hard,Stress Relief,Yes,No
+41,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Excellent,Yes,No Access,Fit In,Yes,Yes
+48,Male,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,Easy,Curiosity,Yes,No
+43,Female,Yes,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+49,Male,Yes,Yes,Yes,Yes,Yes,Yes,Daily,Poor,Yes,No Access,Curiosity,Yes,Yes
+34,Female,Yes,Yes,No,No,No,No,Occasionally,Excellent,Yes,No Access,Other,No,No
+54,Female,No,Yes,Yes,No,Yes,Yes,Regularly,Poor,Yes,Easy,Curiosity,No,Yes
+23,Male,No,Yes,No,No,No,Yes,Rarely,Poor,Yes,Hard,Stress Relief,Yes,Yes
+31,Female,No,No,Yes,No,Yes,No,Regularly,Poor,No,No Access,Fit In,Yes,Yes
+41,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,No,Hard,No Motivation,No,No
+57,Female,No,Yes,No,No,Yes,No,Occasionally,Average,Yes,Hard,No Motivation,Yes,No
+35,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Excellent,Yes,No Access,Other,Yes,No
+24,Female,No,No,Yes,Yes,No,No,Daily,Excellent,Yes,No Access,No Motivation,No,Yes
+32,Female,Yes,No,No,Yes,No,Yes,Daily,Excellent,No,Easy,Other,Yes,No
+28,Male,Yes,Yes,Yes,Yes,No,Yes,Rarely,Poor,Yes,No Access,Other,No,Yes
+47,Male,No,Yes,No,Yes,Yes,No,Occasionally,Excellent,No,No Access,Other,No,No
+55,Male,Yes,No,No,Yes,Yes,No,Rarely,Poor,No,Hard,No Motivation,No,No
+24,Female,Yes,No,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,Other,No,Yes
+22,Male,No,Yes,Yes,No,No,No,Daily,Average,Yes,Hard,No Motivation,No,Yes
+30,Female,Yes,No,No,Yes,No,No,Occasionally,Excellent,No,Easy,Fit In,Yes,No
+34,Male,No,No,Yes,No,No,No,Rarely,Average,No,No Access,Other,No,No
+28,Male,No,Yes,No,No,No,No,Daily,Excellent,Yes,Hard,Other,Yes,No
+48,Male,Yes,Yes,Yes,No,No,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+29,Female,Yes,No,No,No,Yes,No,Daily,Excellent,No,Easy,Stress Relief,Yes,No
+23,Male,No,Yes,No,Yes,Yes,No,Rarely,Average,No,Hard,No Motivation,Yes,No
+50,Female,No,Yes,Yes,Yes,No,Yes,Rarely,Poor,No,Easy,Other,Yes,No
+21,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+28,Female,No,No,No,Yes,Yes,No,Occasionally,Average,No,Easy,Stress Relief,Yes,No
+58,Female,No,No,Yes,Yes,No,No,Regularly,Poor,No,Easy,No Motivation,No,Yes
+30,Female,No,No,Yes,No,No,Yes,Rarely,Average,Yes,No Access,Fit In,Yes,Yes
+22,Female,No,No,No,Yes,No,Yes,Rarely,Poor,No,Easy,Fit In,Yes,No
+22,Female,Yes,No,Yes,No,No,Yes,Regularly,Excellent,No,Easy,Stress Relief,Yes,Yes
+42,Male,Yes,Yes,Yes,No,No,No,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+28,Female,No,No,No,No,Yes,No,Daily,Poor,Yes,Easy,No Motivation,No,Yes
+29,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Average,Yes,No Access,Fit In,Yes,Yes
+51,Male,Yes,No,Yes,No,Yes,Yes,Regularly,Poor,Yes,Easy,Fit In,No,Yes
+50,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Easy,No Motivation,Yes,Yes
+43,Female,Yes,Yes,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Other,No,No
+27,Female,No,Yes,No,No,Yes,Yes,Daily,Excellent,No,Easy,Stress Relief,Yes,No
+25,Female,Yes,No,Yes,No,No,No,Occasionally,Excellent,Yes,No Access,Fit In,Yes,Yes
+49,Male,Yes,Yes,Yes,No,No,Yes,Regularly,Average,Yes,No Access,No Motivation,Yes,Yes
+47,Female,No,No,No,Yes,Yes,Yes,Occasionally,Average,No,Easy,Curiosity,Yes,No
+42,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,Yes,Easy,Other,Yes,No
+18,Female,Yes,Yes,No,Yes,Yes,Yes,Occasionally,Excellent,No,Hard,Stress Relief,Yes,No
+41,Male,Yes,No,No,Yes,Yes,No,Daily,Poor,Yes,No Access,Other,No,Yes
+36,Male,Yes,No,No,Yes,No,No,Rarely,Average,Yes,Easy,No Motivation,No,No
+23,Female,Yes,Yes,Yes,No,No,Yes,Rarely,Poor,No,Easy,Other,No,No
+37,Male,Yes,No,Yes,No,Yes,No,Rarely,Poor,No,Easy,Other,No,No
+22,Female,No,No,Yes,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,Yes
+56,Female,No,Yes,Yes,No,Yes,No,Occasionally,Average,Yes,Hard,Curiosity,Yes,No
+60,Male,No,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+47,Female,No,No,No,Yes,No,No,Regularly,Poor,No,No Access,Curiosity,No,No
+45,Female,No,No,Yes,Yes,Yes,Yes,Daily,Average,Yes,Easy,No Motivation,No,Yes
+19,Male,No,Yes,No,Yes,Yes,No,Occasionally,Average,Yes,Hard,Other,Yes,No
+60,Male,No,Yes,No,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+23,Male,Yes,Yes,Yes,No,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,No,Yes
+53,Female,No,No,Yes,Yes,No,Yes,Daily,Excellent,No,Easy,Other,Yes,No
+56,Female,Yes,Yes,No,No,No,Yes,Occasionally,Excellent,Yes,No Access,Other,No,No
+51,Male,Yes,Yes,Yes,Yes,No,Yes,Daily,Average,Yes,No Access,Other,Yes,Yes
+21,Male,Yes,No,Yes,No,No,No,Regularly,Excellent,Yes,Hard,Other,Yes,Yes
+41,Female,Yes,No,Yes,No,No,No,Occasionally,Average,No,Hard,Curiosity,No,No
+40,Female,No,Yes,Yes,No,No,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+53,Female,Yes,No,Yes,Yes,No,Yes,Rarely,Average,No,Hard,No Motivation,Yes,No
+45,Male,No,Yes,Yes,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,No,Yes
+53,Male,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+27,Female,No,Yes,No,No,Yes,Yes,Regularly,Excellent,Yes,Easy,Stress Relief,No,Yes
+23,Female,Yes,Yes,No,No,Yes,No,Occasionally,Excellent,Yes,No Access,No Motivation,Yes,No
+39,Male,No,No,Yes,Yes,No,No,Rarely,Average,Yes,Hard,Other,No,No
+26,Male,Yes,Yes,No,Yes,Yes,Yes,Daily,Average,No,Hard,Other,Yes,No
+59,Male,Yes,No,Yes,No,Yes,No,Regularly,Excellent,Yes,Hard,No Motivation,No,Yes
+44,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,No,Yes
+34,Female,Yes,No,No,Yes,No,Yes,Occasionally,Poor,No,Hard,No Motivation,Yes,No
+35,Male,No,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Stress Relief,Yes,Yes
+29,Male,Yes,Yes,Yes,No,No,No,Daily,Poor,No,Easy,Other,No,Yes
+30,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,No Access,Curiosity,Yes,No
+46,Female,Yes,No,No,No,No,No,Daily,Excellent,Yes,Easy,Other,No,No
+51,Female,Yes,Yes,No,Yes,No,No,Daily,Poor,No,Easy,No Motivation,No,No
+44,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,No,No Access,Other,No,No
+24,Male,No,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+36,Female,No,Yes,No,Yes,No,No,Regularly,Excellent,Yes,Easy,Curiosity,Yes,No
+40,Male,No,Yes,Yes,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Other,No,Yes
+55,Female,No,Yes,No,Yes,No,Yes,Regularly,Excellent,Yes,No Access,No Motivation,No,No
+39,Female,No,No,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Curiosity,No,No
+43,Male,No,Yes,Yes,Yes,No,No,Rarely,Average,Yes,Hard,Other,No,No
+53,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,No,Easy,Fit In,No,No
+25,Female,No,No,No,Yes,No,Yes,Occasionally,Excellent,Yes,No Access,No Motivation,No,No
+28,Female,No,No,Yes,Yes,No,No,Regularly,Average,Yes,No Access,Fit In,No,Yes
+58,Female,No,Yes,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Easy,Other,No,Yes
+58,Male,Yes,Yes,No,Yes,No,Yes,Occasionally,Average,Yes,Easy,No Motivation,No,No
+41,Male,No,No,Yes,No,Yes,No,Regularly,Average,Yes,Easy,Curiosity,Yes,Yes
+51,Female,No,No,Yes,Yes,Yes,Yes,Daily,Average,Yes,Hard,Stress Relief,No,Yes
+35,Male,No,No,Yes,Yes,Yes,Yes,Rarely,Poor,No,Easy,Other,No,No
+18,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,Hard,Curiosity,No,No
+54,Female,Yes,Yes,Yes,No,Yes,Yes,Regularly,Poor,Yes,No Access,Fit In,Yes,Yes
+57,Female,Yes,No,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Hard,Other,Yes,Yes
+34,Male,No,No,Yes,No,No,Yes,Occasionally,Average,Yes,No Access,Fit In,No,Yes
+20,Male,Yes,No,No,Yes,Yes,No,Regularly,Poor,No,No Access,No Motivation,Yes,No
+30,Male,No,Yes,Yes,No,Yes,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+18,Male,No,Yes,Yes,Yes,No,Yes,Regularly,Average,Yes,Easy,Stress Relief,Yes,Yes
+30,Male,No,No,Yes,Yes,Yes,No,Regularly,Poor,No,Hard,No Motivation,Yes,Yes
+20,Male,No,No,No,Yes,No,No,Daily,Average,Yes,Hard,Stress Relief,No,Yes
+29,Female,Yes,Yes,No,No,No,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+54,Female,Yes,No,No,Yes,Yes,No,Rarely,Excellent,Yes,Hard,Fit In,Yes,No
+52,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Curiosity,Yes,No
+30,Male,No,No,Yes,Yes,Yes,No,Regularly,Poor,Yes,No Access,No Motivation,No,Yes
+32,Female,No,Yes,Yes,No,Yes,Yes,Daily,Poor,No,No Access,Other,No,Yes
+47,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Poor,Yes,Easy,Other,No,Yes
+35,Male,Yes,No,No,No,No,Yes,Daily,Excellent,No,No Access,Curiosity,Yes,No
+43,Female,No,No,No,No,No,Yes,Regularly,Poor,Yes,No Access,Other,Yes,Yes
+34,Female,Yes,Yes,No,No,No,Yes,Occasionally,Average,No,Easy,No Motivation,No,No
+43,Male,No,No,No,No,No,No,Regularly,Average,No,No Access,Other,No,No
+58,Male,No,No,No,Yes,Yes,No,Regularly,Poor,Yes,Easy,Other,No,Yes
+56,Female,No,Yes,No,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,No,No
+43,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,Yes,Yes
+32,Male,Yes,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+40,Female,Yes,Yes,Yes,Yes,No,Yes,Regularly,Poor,Yes,Hard,Other,Yes,Yes
+35,Male,Yes,No,No,Yes,No,Yes,Regularly,Poor,Yes,Easy,Curiosity,No,Yes
+33,Male,Yes,No,No,No,Yes,No,Rarely,Poor,No,Easy,Stress Relief,No,No
+35,Male,Yes,Yes,Yes,No,Yes,Yes,Regularly,Excellent,Yes,Hard,No Motivation,No,Yes
+58,Female,Yes,No,No,Yes,Yes,No,Occasionally,Excellent,Yes,No Access,Stress Relief,Yes,No
+43,Female,No,No,Yes,Yes,No,Yes,Rarely,Average,Yes,No Access,Stress Relief,No,Yes
+58,Male,Yes,Yes,No,Yes,Yes,No,Occasionally,Poor,No,No Access,Fit In,No,No
+24,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Excellent,No,No Access,Fit In,Yes,No
+35,Male,Yes,Yes,Yes,No,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+39,Female,Yes,No,No,No,No,Yes,Occasionally,Average,Yes,Easy,Curiosity,Yes,No
+44,Female,Yes,Yes,No,Yes,Yes,Yes,Daily,Average,Yes,No Access,Other,Yes,No
+54,Female,Yes,No,No,Yes,No,Yes,Occasionally,Poor,No,No Access,No Motivation,No,No
+45,Male,No,No,No,Yes,Yes,No,Occasionally,Poor,Yes,No Access,Stress Relief,Yes,Yes
+30,Female,No,No,Yes,No,Yes,No,Daily,Poor,Yes,No Access,No Motivation,No,Yes
+30,Female,Yes,Yes,No,No,Yes,Yes,Regularly,Excellent,No,Easy,Fit In,No,No
+36,Female,Yes,No,Yes,Yes,No,No,Rarely,Average,Yes,Easy,No Motivation,Yes,No
+20,Male,Yes,No,No,No,No,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+36,Male,No,Yes,No,Yes,No,No,Daily,Average,No,No Access,Other,No,No
+32,Male,Yes,No,No,No,No,Yes,Rarely,Poor,Yes,Easy,Other,Yes,No
+38,Male,No,Yes,No,Yes,No,Yes,Daily,Average,No,No Access,No Motivation,No,No
+40,Female,Yes,No,No,Yes,Yes,Yes,Daily,Average,No,No Access,Fit In,Yes,No
+25,Female,Yes,No,Yes,No,Yes,Yes,Occasionally,Poor,No,Hard,Fit In,No,Yes
+29,Female,No,Yes,No,Yes,No,No,Regularly,Average,Yes,No Access,No Motivation,No,No
+19,Female,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,Yes,Easy,Curiosity,Yes,Yes
+43,Female,Yes,Yes,No,Yes,No,Yes,Daily,Average,Yes,No Access,Fit In,Yes,Yes
+27,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Easy,Stress Relief,No,Yes
+25,Male,No,No,No,No,No,Yes,Rarely,Poor,No,Easy,No Motivation,Yes,No
+32,Female,No,No,Yes,Yes,Yes,No,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+43,Female,Yes,No,Yes,Yes,Yes,No,Occasionally,Poor,No,Easy,Stress Relief,Yes,Yes
+37,Female,No,No,Yes,No,Yes,No,Rarely,Poor,Yes,No Access,Other,Yes,Yes
+46,Male,No,Yes,No,No,Yes,Yes,Regularly,Poor,No,Easy,No Motivation,No,No
+27,Male,Yes,No,No,No,No,No,Occasionally,Poor,Yes,Easy,Curiosity,No,No
+23,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Average,No,No Access,Stress Relief,Yes,No
+60,Female,Yes,Yes,Yes,Yes,No,Yes,Daily,Poor,Yes,Easy,Fit In,No,Yes
+24,Female,Yes,Yes,No,Yes,Yes,Yes,Daily,Poor,Yes,No Access,Curiosity,Yes,Yes
+23,Male,No,Yes,No,No,No,No,Daily,Excellent,No,Hard,Stress Relief,No,No
+21,Female,No,No,Yes,Yes,Yes,Yes,Occasionally,Excellent,Yes,Hard,Curiosity,Yes,No
+44,Female,Yes,Yes,No,No,Yes,No,Rarely,Average,No,Hard,Fit In,No,No
+47,Female,Yes,Yes,No,No,Yes,No,Daily,Average,No,No Access,Curiosity,No,No
+37,Female,Yes,No,No,Yes,No,No,Rarely,Average,No,Hard,Fit In,Yes,No
+26,Male,Yes,No,No,No,No,No,Regularly,Poor,Yes,No Access,Curiosity,No,Yes
+53,Female,No,Yes,Yes,No,No,Yes,Daily,Poor,No,Easy,Stress Relief,No,Yes
+45,Female,Yes,No,Yes,No,Yes,Yes,Regularly,Average,Yes,Easy,No Motivation,No,Yes
+44,Female,No,Yes,No,Yes,Yes,No,Daily,Average,Yes,Easy,Curiosity,No,No
+43,Male,Yes,Yes,No,Yes,Yes,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+42,Female,Yes,No,No,No,No,Yes,Daily,Poor,No,No Access,No Motivation,Yes,No
+38,Female,No,No,No,Yes,No,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,No
+22,Female,No,No,No,No,No,No,Rarely,Poor,Yes,No Access,Fit In,Yes,Yes
+55,Female,Yes,No,Yes,Yes,Yes,Yes,Regularly,Poor,No,Hard,Curiosity,Yes,Yes
+49,Female,Yes,Yes,No,Yes,Yes,No,Daily,Excellent,No,Easy,Other,No,No
+44,Female,Yes,Yes,No,Yes,No,Yes,Regularly,Excellent,No,No Access,Stress Relief,No,No
+25,Male,No,Yes,Yes,Yes,No,Yes,Regularly,Poor,No,No Access,No Motivation,No,Yes
+42,Female,Yes,No,Yes,Yes,No,No,Regularly,Excellent,No,Easy,No Motivation,Yes,No
+19,Male,No,No,No,Yes,Yes,No,Daily,Poor,No,Easy,Fit In,No,Yes
+52,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Curiosity,Yes,No
+28,Female,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,Yes,No
+45,Male,No,Yes,Yes,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,No,Yes
+23,Male,No,Yes,No,No,Yes,No,Daily,Poor,No,Easy,Fit In,No,Yes
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+25,Female,No,No,No,Yes,No,Yes,Occasionally,Excellent,Yes,No Access,No Motivation,No,No
+47,Male,No,Yes,No,No,No,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+53,Male,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+48,Male,Yes,Yes,No,Yes,Yes,No,Regularly,Excellent,Yes,No Access,No Motivation,Yes,No
+59,Female,No,Yes,No,No,No,Yes,Rarely,Excellent,Yes,Easy,Stress Relief,No,No
+37,Male,No,No,No,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,No
+45,Female,No,Yes,Yes,No,Yes,Yes,Rarely,Average,Yes,Easy,No Motivation,Yes,No
+19,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Average,No,Hard,Curiosity,Yes,No
+30,Female,Yes,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+43,Male,No,No,No,No,Yes,Yes,Occasionally,Excellent,No,Easy,Other,Yes,No
+35,Female,Yes,Yes,Yes,Yes,No,Yes,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+21,Female,Yes,No,No,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+44,Female,No,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Curiosity,No,No
+54,Female,Yes,No,Yes,No,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,Yes
+22,Female,Yes,No,No,No,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+56,Female,No,Yes,Yes,No,Yes,No,Occasionally,Average,Yes,Hard,Curiosity,Yes,No
+21,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+46,Male,No,No,No,Yes,Yes,No,Rarely,Poor,Yes,Hard,No Motivation,Yes,No
+58,Male,Yes,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,Yes,Yes
+53,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,No,Easy,Fit In,No,No
+33,Male,No,Yes,Yes,Yes,No,No,Regularly,Poor,No,No Access,Fit In,No,Yes
+20,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,No,No Access,Stress Relief,Yes,No
+43,Female,No,No,Yes,Yes,No,Yes,Rarely,Average,Yes,No Access,Stress Relief,No,Yes
+48,Male,Yes,Yes,Yes,No,No,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+34,Female,Yes,Yes,No,No,Yes,Yes,Occasionally,Poor,No,No Access,Fit In,Yes,No
+30,Female,No,No,Yes,No,Yes,No,Daily,Poor,Yes,No Access,No Motivation,No,Yes
+52,Female,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+38,Male,No,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Stress Relief,No,Yes
+54,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Average,Yes,Easy,Fit In,No,Yes
+23,Female,Yes,Yes,Yes,No,No,Yes,Rarely,Poor,No,Easy,Other,No,No
+50,Male,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,Yes,Hard,Stress Relief,Yes,Yes
+26,Male,Yes,No,No,No,No,No,Regularly,Poor,Yes,No Access,Curiosity,No,Yes
+44,Female,Yes,Yes,No,Yes,No,Yes,Regularly,Excellent,No,No Access,Stress Relief,No,No
+27,Female,No,Yes,Yes,Yes,Yes,Yes,Occasionally,Excellent,No,Hard,Stress Relief,No,No
+47,Female,Yes,Yes,No,No,Yes,No,Daily,Average,No,No Access,Curiosity,No,No
+19,Female,No,Yes,No,Yes,No,Yes,Rarely,Average,No,No Access,Fit In,Yes,No
+51,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,Yes,Easy,Fit In,No,Yes
+30,Male,No,No,Yes,Yes,Yes,No,Regularly,Poor,Yes,No Access,No Motivation,No,Yes
+25,Female,No,Yes,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,No Motivation,Yes,Yes
+55,Male,Yes,No,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Other,Yes,Yes
+56,Male,Yes,No,Yes,Yes,No,No,Regularly,Average,No,Hard,Fit In,Yes,Yes
+58,Male,Yes,Yes,No,Yes,Yes,No,Occasionally,Poor,No,No Access,Fit In,No,No
+21,Male,Yes,No,No,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,Yes,No
+54,Male,No,Yes,No,Yes,No,Yes,Rarely,Average,Yes,Easy,Fit In,No,No
+19,Male,No,Yes,No,No,No,No,Regularly,Excellent,Yes,No Access,Fit In,No,Yes
+29,Female,No,Yes,No,Yes,No,No,Regularly,Average,Yes,No Access,No Motivation,No,No
+54,Female,Yes,No,Yes,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,Yes,No
+45,Male,No,Yes,Yes,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,No,Yes
+23,Male,No,Yes,No,No,No,Yes,Rarely,Poor,Yes,Hard,Stress Relief,Yes,Yes
+60,Female,No,Yes,No,No,No,No,Regularly,Average,No,Hard,Other,No,No
+56,Female,Yes,Yes,Yes,No,No,No,Occasionally,Poor,No,Easy,Curiosity,No,No
+54,Male,No,Yes,No,Yes,No,Yes,Rarely,Average,Yes,Easy,Fit In,No,No
+31,Female,No,No,No,No,Yes,No,Rarely,Poor,Yes,Hard,No Motivation,No,No
+45,Female,No,Yes,Yes,No,Yes,Yes,Rarely,Average,Yes,Easy,No Motivation,Yes,No
+28,Female,No,No,Yes,Yes,No,No,Regularly,Average,Yes,No Access,Fit In,No,Yes
+54,Male,No,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+57,Female,No,Yes,No,No,Yes,No,Occasionally,Average,Yes,Hard,No Motivation,Yes,No
+18,Male,No,Yes,Yes,Yes,No,Yes,Regularly,Average,Yes,Easy,Stress Relief,Yes,Yes
+20,Male,No,No,No,Yes,No,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+43,Male,No,No,No,Yes,No,Yes,Occasionally,Average,Yes,Easy,Other,No,No
+57,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,No Motivation,No,No
+36,Female,Yes,Yes,Yes,No,Yes,Yes,Rarely,Poor,Yes,Hard,Other,No,Yes
+28,Female,No,Yes,No,No,Yes,No,Regularly,Excellent,Yes,Hard,Curiosity,No,No
+30,Female,Yes,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+49,Female,No,No,No,No,No,Yes,Occasionally,Average,No,Hard,Stress Relief,Yes,No
+19,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Average,No,Easy,No Motivation,No,No
+38,Male,No,Yes,Yes,No,No,No,Daily,Excellent,No,Easy,Stress Relief,Yes,Yes
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+41,Female,No,Yes,No,No,No,Yes,Occasionally,Poor,Yes,Hard,Stress Relief,No,Yes
+48,Female,No,Yes,Yes,Yes,No,Yes,Daily,Excellent,Yes,Hard,Fit In,No,Yes
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,No Access,Curiosity,Yes,Yes
+21,Female,Yes,No,No,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+49,Female,Yes,No,Yes,Yes,Yes,Yes,Regularly,Excellent,No,Hard,Stress Relief,No,Yes
+46,Female,No,No,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Fit In,Yes,No
+25,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,No Access,Fit In,Yes,Yes
+55,Female,No,Yes,No,Yes,No,Yes,Regularly,Excellent,Yes,No Access,No Motivation,No,No
+30,Female,Yes,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+56,Male,No,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+23,Male,Yes,Yes,Yes,No,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,No,Yes
+49,Female,Yes,Yes,No,Yes,Yes,No,Daily,Excellent,No,Easy,Other,No,No
+28,Female,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,Yes,No
+21,Female,Yes,No,Yes,Yes,No,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+48,Female,Yes,No,No,No,Yes,No,Daily,Poor,No,Hard,Curiosity,Yes,No
+29,Male,No,Yes,No,Yes,No,Yes,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,No
+29,Female,Yes,No,No,Yes,No,No,Occasionally,Average,No,Hard,Fit In,No,No
+36,Male,No,Yes,No,No,No,No,Daily,Average,Yes,Hard,Other,No,No
+18,Female,No,Yes,No,No,No,Yes,Rarely,Average,No,No Access,Fit In,No,No
+48,Female,Yes,No,No,No,Yes,No,Daily,Poor,No,Hard,Curiosity,Yes,No
+41,Male,No,No,Yes,No,Yes,No,Regularly,Average,Yes,Easy,Curiosity,Yes,Yes
+54,Female,No,Yes,Yes,No,Yes,Yes,Regularly,Poor,Yes,Easy,Curiosity,No,Yes
+57,Male,Yes,Yes,No,Yes,No,Yes,Daily,Poor,No,Hard,Fit In,No,Yes
+35,Female,Yes,No,No,No,No,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+18,Female,No,Yes,No,No,No,Yes,Rarely,Average,No,No Access,Fit In,No,No
+25,Male,No,No,No,No,No,Yes,Rarely,Poor,No,Easy,No Motivation,Yes,No
+39,Female,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,No,Hard,Fit In,No,Yes
+37,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Other,No,No
+50,Female,No,Yes,Yes,Yes,No,Yes,Rarely,Poor,No,Easy,Other,Yes,No
+46,Female,No,No,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Fit In,Yes,No
+26,Female,No,No,No,No,Yes,No,Occasionally,Poor,No,Hard,Stress Relief,Yes,No
+55,Male,No,No,Yes,No,Yes,No,Occasionally,Poor,Yes,Easy,No Motivation,Yes,Yes
+58,Male,Yes,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,Yes,Yes
+26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Regularly,Average,Yes,No Access,Curiosity,No,Yes
+38,Male,Yes,Yes,Yes,No,Yes,No,Occasionally,Poor,No,Easy,Fit In,Yes,Yes
+33,Male,Yes,Yes,No,Yes,Yes,No,Rarely,Poor,Yes,Easy,Curiosity,Yes,No
+52,Female,No,Yes,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Stress Relief,No,Yes
+32,Male,Yes,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+28,Male,Yes,Yes,No,No,No,No,Regularly,Average,Yes,Easy,No Motivation,No,No
+22,Female,No,No,Yes,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,Yes
+38,Male,No,Yes,Yes,No,No,No,Daily,Excellent,No,Easy,Stress Relief,Yes,Yes
+20,Male,Yes,No,No,Yes,Yes,No,Regularly,Poor,No,No Access,No Motivation,Yes,No
+30,Female,Yes,Yes,No,No,Yes,Yes,Regularly,Excellent,No,Easy,Fit In,No,No
+43,Female,Yes,No,Yes,Yes,Yes,No,Occasionally,Poor,No,Easy,Stress Relief,Yes,Yes
+21,Female,No,No,No,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,Yes,No
+49,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Other,Yes,No
+27,Male,No,No,No,Yes,No,No,Occasionally,Average,Yes,Hard,Fit In,No,No
+44,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,No,Yes
+53,Female,No,Yes,Yes,No,No,Yes,Daily,Poor,No,Easy,Stress Relief,No,Yes
+41,Male,Yes,Yes,Yes,Yes,Yes,No,Daily,Average,Yes,No Access,Fit In,No,Yes
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+46,Female,Yes,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Curiosity,Yes,No
+32,Male,Yes,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+21,Male,Yes,Yes,Yes,No,No,No,Rarely,Poor,Yes,Hard,Fit In,Yes,Yes
+38,Male,No,No,Yes,No,Yes,Yes,Daily,Poor,No,Hard,Other,Yes,Yes
+41,Male,Yes,No,No,Yes,Yes,No,Daily,Poor,Yes,No Access,Other,No,Yes
+39,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+56,Male,No,Yes,Yes,No,No,No,Rarely,Excellent,No,Easy,No Motivation,Yes,No
+51,Male,Yes,Yes,Yes,Yes,No,Yes,Daily,Average,Yes,No Access,Other,Yes,Yes
+43,Male,No,Yes,No,Yes,Yes,Yes,Daily,Excellent,No,Hard,Curiosity,No,No
+43,Male,No,No,No,No,No,No,Regularly,Average,No,No Access,Other,No,No
+54,Female,Yes,No,Yes,No,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,Yes
+56,Male,No,Yes,No,Yes,Yes,Yes,Occasionally,Poor,Yes,No Access,Curiosity,No,No
+41,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,No,Hard,No Motivation,No,No
+25,Female,No,No,No,No,Yes,Yes,Regularly,Poor,Yes,No Access,Other,No,Yes
+49,Male,Yes,No,No,No,Yes,Yes,Daily,Poor,No,Easy,No Motivation,No,No
+60,Male,No,Yes,No,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+54,Female,No,Yes,Yes,No,Yes,No,Rarely,Poor,No,Hard,Other,Yes,No
+21,Female,No,No,Yes,Yes,Yes,Yes,Occasionally,Excellent,Yes,Hard,Curiosity,Yes,No
+33,Male,No,Yes,Yes,No,Yes,Yes,Regularly,Excellent,Yes,Easy,Curiosity,No,Yes
+40,Male,No,Yes,No,Yes,No,Yes,Daily,Average,No,Easy,No Motivation,No,No
+28,Female,No,Yes,No,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,Yes,No
+34,Female,Yes,Yes,No,No,No,No,Occasionally,Excellent,Yes,No Access,Other,No,No
+41,Male,No,Yes,Yes,Yes,No,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+33,Female,No,No,No,Yes,Yes,No,Daily,Average,Yes,Hard,Other,Yes,No
+46,Female,No,No,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Fit In,Yes,No
+25,Male,Yes,No,No,No,No,Yes,Regularly,Poor,No,Hard,Fit In,Yes,Yes
+56,Female,No,Yes,No,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,No,No
+40,Female,No,Yes,Yes,No,No,No,Daily,Poor,No,No Access,Fit In,Yes,Yes
+20,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,No,No Access,Stress Relief,Yes,No
+46,Female,No,No,No,Yes,Yes,Yes,Rarely,Poor,No,No Access,Fit In,Yes,No
+28,Female,No,Yes,No,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,Yes,No
+19,Female,Yes,Yes,Yes,Yes,Yes,No,Regularly,Poor,Yes,Easy,Curiosity,Yes,Yes
+57,Male,Yes,Yes,No,Yes,No,Yes,Daily,Poor,No,Hard,Fit In,No,Yes
+51,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+57,Male,Yes,Yes,No,Yes,Yes,No,Occasionally,Excellent,Yes,Hard,No Motivation,No,No
+52,Female,Yes,Yes,No,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,Curiosity,No,No
+50,Female,Yes,No,Yes,No,Yes,Yes,Rarely,Average,No,Hard,No Motivation,Yes,No
+49,Male,Yes,No,Yes,No,No,No,Daily,Poor,No,Hard,Other,No,Yes
+30,Male,No,Yes,Yes,No,Yes,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+22,Female,No,Yes,No,Yes,Yes,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+21,Male,Yes,No,No,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,Yes,No
+50,Female,Yes,No,Yes,No,Yes,Yes,Rarely,Average,No,Hard,No Motivation,Yes,No
+18,Female,No,Yes,No,No,No,Yes,Rarely,Average,No,No Access,Fit In,No,No
+26,Male,No,Yes,No,Yes,No,No,Rarely,Excellent,No,Hard,Fit In,No,No
+44,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,No,No Access,Other,No,No
+60,Male,No,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+30,Male,No,No,Yes,Yes,Yes,No,Regularly,Poor,No,Hard,No Motivation,Yes,Yes
+19,Male,No,Yes,No,Yes,Yes,No,Occasionally,Average,Yes,Hard,Other,Yes,No
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+33,Male,Yes,No,No,Yes,No,Yes,Regularly,Excellent,Yes,Hard,Fit In,Yes,Yes
+50,Female,No,Yes,Yes,Yes,No,Yes,Rarely,Poor,No,Easy,Other,Yes,No
+53,Male,Yes,No,Yes,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Fit In,No,No
+29,Female,Yes,No,Yes,No,No,Yes,Daily,Excellent,No,No Access,Stress Relief,No,Yes
+41,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,No,Yes
+56,Female,Yes,Yes,No,Yes,Yes,Yes,Occasionally,Excellent,No,Hard,Curiosity,Yes,No
+43,Male,No,Yes,No,Yes,Yes,Yes,Daily,Excellent,No,Hard,Curiosity,No,No
+48,Male,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,Easy,Curiosity,Yes,No
+47,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Poor,Yes,Easy,Other,No,Yes
+54,Male,No,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+48,Male,Yes,No,No,Yes,No,Yes,Regularly,Poor,Yes,Easy,Stress Relief,Yes,Yes
+38,Female,Yes,No,No,No,Yes,No,Regularly,Poor,No,Easy,Curiosity,No,No
+22,Male,No,Yes,No,Yes,No,Yes,Rarely,Excellent,No,No Access,No Motivation,No,No
+27,Male,Yes,No,No,Yes,No,No,Daily,Average,No,Hard,No Motivation,No,No
+22,Female,Yes,No,No,No,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+39,Male,Yes,No,No,Yes,No,No,Rarely,Average,No,No Access,Other,Yes,No
+41,Male,Yes,Yes,Yes,Yes,Yes,No,Daily,Average,Yes,No Access,Fit In,No,Yes
+31,Male,Yes,Yes,Yes,No,Yes,No,Rarely,Average,No,Hard,Curiosity,No,No
+46,Male,No,Yes,No,No,Yes,Yes,Regularly,Poor,No,Easy,No Motivation,No,No
+41,Male,No,No,No,No,Yes,Yes,Regularly,Excellent,No,Hard,No Motivation,No,No
+24,Male,No,No,Yes,Yes,Yes,No,Regularly,Average,No,No Access,Curiosity,Yes,No
+54,Female,Yes,No,Yes,Yes,No,No,Occasionally,Excellent,No,No Access,Curiosity,Yes,No
+51,Female,No,No,Yes,Yes,No,Yes,Rarely,Excellent,Yes,No Access,Curiosity,No,No
+40,Male,No,Yes,Yes,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Other,No,Yes
+42,Male,Yes,Yes,Yes,No,No,No,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+21,Male,Yes,No,Yes,No,No,No,Regularly,Excellent,Yes,Hard,Other,Yes,Yes
+36,Female,Yes,No,Yes,No,No,No,Occasionally,Poor,No,Easy,Other,Yes,No
+26,Female,No,No,No,No,Yes,No,Occasionally,Poor,No,Hard,Stress Relief,Yes,No
+50,Female,Yes,Yes,No,No,No,Yes,Daily,Average,Yes,Hard,Stress Relief,Yes,Yes
+51,Female,No,No,Yes,Yes,No,Yes,Rarely,Excellent,Yes,No Access,Curiosity,No,No
+53,Female,No,Yes,Yes,No,No,Yes,Daily,Poor,No,Easy,Stress Relief,No,Yes
+41,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Stress Relief,Yes,Yes
+51,Male,Yes,No,Yes,No,Yes,Yes,Regularly,Poor,Yes,Easy,Fit In,No,Yes
+58,Female,No,No,Yes,Yes,No,No,Regularly,Poor,No,Easy,No Motivation,No,Yes
+48,Male,Yes,No,No,Yes,No,Yes,Regularly,Poor,Yes,Easy,Stress Relief,Yes,Yes
+28,Female,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,Yes,No
+46,Male,No,No,No,No,Yes,Yes,Regularly,Excellent,Yes,Easy,No Motivation,No,No
+28,Female,Yes,No,Yes,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,Yes,Yes
+46,Male,No,Yes,No,Yes,No,Yes,Regularly,Poor,No,Hard,Curiosity,No,No
+32,Male,Yes,No,No,No,No,Yes,Rarely,Poor,Yes,Easy,Other,Yes,No
+44,Male,Yes,Yes,No,No,Yes,No,Rarely,Poor,Yes,No Access,Other,No,No
+29,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Average,Yes,No Access,Fit In,Yes,Yes
+49,Male,Yes,Yes,Yes,No,No,Yes,Regularly,Average,Yes,No Access,No Motivation,Yes,Yes
+28,Female,No,No,Yes,Yes,No,No,Regularly,Average,Yes,No Access,Fit In,No,Yes
+47,Female,No,No,No,Yes,No,No,Regularly,Poor,No,No Access,Curiosity,No,No
+41,Male,Yes,No,No,Yes,Yes,No,Daily,Poor,Yes,No Access,Other,No,Yes
+20,Female,No,Yes,No,No,No,Yes,Rarely,Poor,No,Hard,Fit In,Yes,No
+32,Female,No,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,Hard,Fit In,Yes,Yes
+25,Male,No,Yes,No,Yes,No,No,Rarely,Excellent,No,Hard,Fit In,No,No
+43,Female,No,No,No,No,No,Yes,Regularly,Poor,Yes,No Access,Other,Yes,Yes
+29,Female,Yes,Yes,No,No,No,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+29,Male,Yes,Yes,Yes,Yes,No,No,Occasionally,Average,No,No Access,Curiosity,No,No
+42,Male,Yes,Yes,Yes,No,No,No,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+49,Female,No,No,Yes,Yes,No,No,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+51,Female,No,No,Yes,Yes,No,Yes,Rarely,Excellent,Yes,No Access,Curiosity,No,No
+50,Female,No,Yes,No,Yes,No,Yes,Daily,Excellent,No,Hard,No Motivation,Yes,No
+47,Male,No,No,Yes,Yes,Yes,Yes,Rarely,Poor,No,Hard,Stress Relief,Yes,Yes
+44,Female,No,Yes,No,Yes,Yes,No,Daily,Average,Yes,Easy,Curiosity,No,No
+35,Female,No,Yes,No,No,Yes,Yes,Rarely,Average,Yes,Hard,Fit In,No,No
+46,Female,Yes,No,No,No,No,No,Daily,Excellent,Yes,Easy,Other,No,No
+55,Male,Yes,No,No,Yes,Yes,No,Rarely,Poor,No,Hard,No Motivation,No,No
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,No Access,Curiosity,Yes,Yes
+23,Male,No,Yes,No,No,No,No,Daily,Excellent,No,Hard,Stress Relief,No,No
+40,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Hard,No Motivation,Yes,Yes
+21,Male,Yes,No,No,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,Yes,No
+21,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+54,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,Yes,Hard,Stress Relief,No,Yes
+36,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Average,Yes,Hard,Fit In,No,Yes
+58,Female,Yes,No,No,Yes,Yes,No,Occasionally,Excellent,Yes,No Access,Stress Relief,Yes,No
+30,Female,No,No,Yes,No,No,Yes,Rarely,Average,Yes,No Access,Fit In,Yes,Yes
+50,Male,No,No,No,Yes,No,No,Daily,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+50,Female,Yes,Yes,No,No,No,Yes,Regularly,Excellent,No,No Access,Curiosity,Yes,No
+50,Female,Yes,Yes,Yes,No,No,No,Daily,Average,Yes,Hard,Fit In,Yes,Yes
+44,Female,Yes,Yes,No,Yes,No,No,Regularly,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+56,Male,No,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+34,Female,Yes,No,No,Yes,No,Yes,Occasionally,Poor,No,Hard,No Motivation,Yes,No
+58,Male,No,Yes,Yes,No,No,No,Rarely,Average,No,Hard,Curiosity,No,No
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+34,Female,Yes,Yes,No,No,No,Yes,Occasionally,Average,No,Easy,No Motivation,No,No
+30,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,No Access,Curiosity,Yes,No
+42,Female,No,No,Yes,Yes,No,Yes,Daily,Excellent,No,No Access,Curiosity,No,No
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+30,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Average,Yes,No Access,No Motivation,Yes,No
+44,Male,No,No,No,No,Yes,No,Daily,Average,No,Hard,Fit In,No,No
+56,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Other,Yes,No
+43,Female,Yes,Yes,Yes,Yes,No,No,Daily,Average,Yes,Hard,No Motivation,No,Yes
+29,Female,Yes,Yes,No,No,No,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+40,Female,No,Yes,Yes,No,No,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+27,Female,Yes,Yes,Yes,No,No,No,Rarely,Excellent,No,Easy,Fit In,Yes,No
+43,Male,Yes,Yes,Yes,No,No,Yes,Daily,Average,No,Easy,Fit In,No,Yes
+49,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Other,Yes,No
+54,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Average,Yes,Easy,Fit In,No,Yes
+41,Male,No,No,Yes,No,No,No,Daily,Excellent,Yes,Easy,Other,Yes,Yes
+25,Female,No,Yes,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,No Motivation,Yes,Yes
+53,Female,Yes,No,No,No,Yes,Yes,Rarely,Poor,No,Easy,Fit In,No,No
+36,Female,Yes,No,Yes,No,No,No,Occasionally,Poor,No,Easy,Other,Yes,No
+56,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Other,Yes,No
+59,Male,Yes,No,Yes,No,Yes,No,Regularly,Excellent,Yes,Hard,No Motivation,No,Yes
+60,Male,No,Yes,No,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+57,Female,No,Yes,Yes,No,Yes,No,Daily,Poor,No,Easy,Fit In,No,Yes
+47,Male,No,Yes,No,Yes,Yes,No,Occasionally,Excellent,No,No Access,Other,No,No
+39,Male,Yes,Yes,No,Yes,No,No,Regularly,Poor,Yes,Easy,No Motivation,Yes,Yes
+43,Male,Yes,Yes,Yes,No,No,No,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+31,Male,Yes,Yes,Yes,Yes,No,Yes,Regularly,Average,No,Hard,Stress Relief,Yes,Yes
+30,Male,No,No,Yes,Yes,Yes,No,Regularly,Poor,Yes,No Access,No Motivation,No,Yes
+50,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Easy,No Motivation,Yes,Yes
+59,Male,Yes,Yes,Yes,No,No,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+50,Male,No,No,No,Yes,No,No,Daily,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+30,Male,Yes,No,No,No,Yes,No,Daily,Average,Yes,Easy,Fit In,No,Yes
+44,Male,No,No,No,No,Yes,No,Daily,Average,No,Hard,Fit In,No,No
+58,Male,No,No,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+31,Female,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Poor,No,Hard,Curiosity,Yes,No
+19,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Average,No,Hard,Curiosity,Yes,No
+41,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,No,Hard,No Motivation,No,No
+48,Male,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,Easy,Curiosity,Yes,No
+29,Female,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,No Access,Curiosity,No,No
+41,Male,No,No,Yes,No,Yes,No,Regularly,Average,Yes,Easy,Curiosity,Yes,Yes
+41,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,No,Hard,No Motivation,No,No
+22,Female,No,No,Yes,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,Yes
+44,Female,Yes,Yes,No,Yes,Yes,Yes,Daily,Average,Yes,No Access,Other,Yes,No
+30,Female,No,No,Yes,No,No,Yes,Rarely,Average,Yes,No Access,Fit In,Yes,Yes
+56,Male,No,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+35,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Excellent,Yes,No Access,Other,Yes,No
+48,Male,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,Easy,Curiosity,Yes,No
+56,Female,No,Yes,No,No,No,Yes,Regularly,Excellent,No,Hard,Curiosity,No,No
+22,Male,No,Yes,No,No,No,Yes,Regularly,Poor,No,Hard,No Motivation,No,No
+26,Female,Yes,Yes,Yes,No,No,No,Regularly,Excellent,Yes,Hard,Curiosity,No,Yes
+57,Female,Yes,Yes,Yes,No,No,No,Occasionally,Poor,No,Easy,Curiosity,No,No
+51,Female,No,Yes,Yes,Yes,No,No,Rarely,Average,Yes,No Access,Other,No,No
+39,Male,Yes,Yes,Yes,No,Yes,No,Occasionally,Poor,No,Easy,Fit In,Yes,Yes
+50,Male,No,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Hard,Other,Yes,Yes
+51,Female,No,Yes,Yes,Yes,No,No,Rarely,Average,Yes,No Access,Other,No,No
+47,Male,Yes,No,Yes,Yes,Yes,No,Occasionally,Average,No,Hard,Curiosity,No,No
+30,Male,Yes,No,Yes,No,Yes,No,Daily,Average,Yes,Easy,Fit In,Yes,Yes
+40,Female,Yes,Yes,Yes,Yes,No,Yes,Regularly,Poor,Yes,Hard,Other,Yes,Yes
+45,Male,No,Yes,Yes,No,Yes,Yes,Daily,Average,No,Easy,Stress Relief,No,Yes
+51,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Poor,No,Hard,Other,Yes,No
+55,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+49,Female,No,No,Yes,Yes,No,No,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+28,Male,Yes,No,Yes,No,Yes,Yes,Rarely,Average,No,No Access,Fit In,No,No
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+22,Female,Yes,No,Yes,No,No,Yes,Regularly,Excellent,No,Easy,Stress Relief,Yes,Yes
+27,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,No
+29,Male,Yes,Yes,Yes,No,No,No,Daily,Poor,No,Easy,Other,No,Yes
+40,Female,Yes,Yes,Yes,Yes,No,Yes,Regularly,Poor,Yes,Hard,Other,Yes,Yes
+29,Female,Yes,No,No,No,Yes,No,Daily,Excellent,No,Easy,Stress Relief,Yes,No
+50,Male,No,Yes,No,Yes,Yes,No,Rarely,Excellent,Yes,No Access,Curiosity,Yes,No
+57,Male,Yes,No,Yes,No,Yes,Yes,Daily,Poor,Yes,Hard,Fit In,No,Yes
+55,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+24,Male,Yes,Yes,No,No,Yes,Yes,Occasionally,Excellent,No,No Access,Fit In,Yes,No
+45,Female,Yes,No,Yes,No,Yes,Yes,Regularly,Average,Yes,Easy,No Motivation,No,Yes
+52,Female,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+58,Female,No,No,Yes,Yes,No,No,Regularly,Poor,No,Easy,No Motivation,No,Yes
+35,Female,Yes,Yes,Yes,Yes,No,Yes,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+54,Male,No,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+53,Female,Yes,No,Yes,Yes,No,Yes,Rarely,Average,No,Hard,No Motivation,Yes,No
+57,Female,Yes,No,No,Yes,Yes,No,Regularly,Average,Yes,No Access,No Motivation,No,No
+53,Female,Yes,No,Yes,No,No,Yes,Occasionally,Average,Yes,Hard,Fit In,Yes,Yes
+49,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+44,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,No,Yes
+21,Male,No,No,No,Yes,No,Yes,Daily,Excellent,No,Easy,Fit In,Yes,No
+35,Female,No,Yes,No,No,Yes,Yes,Rarely,Average,Yes,Hard,Fit In,No,No
+24,Male,No,No,Yes,Yes,Yes,No,Regularly,Average,No,No Access,Curiosity,Yes,No
+21,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+18,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,Hard,Curiosity,No,No
+47,Female,No,No,No,Yes,Yes,Yes,Occasionally,Average,No,Easy,Curiosity,Yes,No
+48,Female,Yes,Yes,No,Yes,No,Yes,Occasionally,Excellent,No,Hard,Stress Relief,No,No
+28,Male,Yes,Yes,Yes,Yes,No,Yes,Rarely,Poor,Yes,No Access,Other,No,Yes
+56,Male,No,Yes,Yes,Yes,Yes,No,Rarely,Excellent,No,Easy,No Motivation,No,No
+28,Male,Yes,Yes,Yes,Yes,No,Yes,Rarely,Poor,Yes,No Access,Other,No,Yes
+49,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Other,Yes,No
+52,Male,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Excellent,Yes,Hard,Fit In,Yes,Yes
+39,Female,No,No,No,Yes,No,Yes,Daily,Average,Yes,Easy,Curiosity,Yes,No
+44,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,No,No Access,Other,No,No
+49,Female,Yes,Yes,Yes,Yes,Yes,Yes,Occasionally,Poor,No,Hard,Other,Yes,No
+33,Male,Yes,No,No,No,Yes,No,Rarely,Poor,No,Easy,Stress Relief,No,No
+32,Female,Yes,No,No,Yes,No,Yes,Daily,Excellent,No,Easy,Other,Yes,No
+52,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Hard,No Motivation,Yes,No
+24,Male,No,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+42,Male,No,No,Yes,No,No,Yes,Rarely,Average,No,Hard,Stress Relief,Yes,No
+44,Female,Yes,Yes,No,No,Yes,No,Rarely,Average,No,Hard,Fit In,No,No
+47,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+47,Male,Yes,No,Yes,Yes,Yes,No,Occasionally,Average,No,Easy,Stress Relief,No,No
+27,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,No Access,No Motivation,Yes,No
+40,Female,No,Yes,Yes,No,No,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+43,Male,No,No,Yes,Yes,Yes,Yes,Regularly,Excellent,No,Hard,Fit In,Yes,Yes
+43,Male,No,No,No,Yes,Yes,No,Rarely,Poor,No,Hard,No Motivation,No,No
+56,Male,No,No,Yes,No,Yes,Yes,Daily,Average,No,No Access,Stress Relief,Yes,Yes
+32,Male,Yes,No,No,Yes,No,No,Occasionally,Excellent,No,Easy,Fit In,No,No
+41,Male,No,No,No,No,Yes,Yes,Regularly,Excellent,No,Hard,No Motivation,No,No
+35,Male,Yes,No,No,No,No,Yes,Daily,Excellent,No,No Access,Curiosity,Yes,No
+27,Male,Yes,Yes,Yes,Yes,Yes,No,Daily,Excellent,Yes,Easy,Curiosity,Yes,Yes
+24,Female,No,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,No Access,Curiosity,No,No
+50,Male,No,No,No,Yes,No,No,Daily,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+48,Male,No,Yes,No,No,No,No,Occasionally,Excellent,Yes,Easy,Curiosity,Yes,No
+40,Female,Yes,No,No,Yes,Yes,Yes,Daily,Average,No,No Access,Fit In,Yes,No
+48,Female,Yes,No,No,No,Yes,No,Daily,Poor,No,Hard,Curiosity,Yes,No
+37,Male,No,No,No,No,No,No,Rarely,Poor,Yes,Easy,No Motivation,No,No
+26,Female,No,No,No,No,Yes,No,Occasionally,Poor,No,Hard,Stress Relief,Yes,No
+26,Female,No,Yes,No,Yes,No,Yes,Daily,Excellent,No,No Access,Stress Relief,Yes,No
+21,Female,Yes,Yes,Yes,Yes,Yes,No,Rarely,Excellent,Yes,Easy,Fit In,No,Yes
+41,Female,No,Yes,No,No,No,Yes,Occasionally,Poor,Yes,Hard,Stress Relief,No,Yes
+43,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Poor,Yes,No Access,Stress Relief,Yes,Yes
+52,Female,Yes,Yes,Yes,Yes,No,Yes,Rarely,Excellent,No,Easy,Fit In,Yes,No
+27,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Easy,Stress Relief,No,Yes
+46,Female,Yes,Yes,Yes,No,Yes,No,Occasionally,Poor,Yes,Easy,Stress Relief,No,Yes
+46,Male,No,No,Yes,No,No,Yes,Occasionally,Average,No,Hard,Other,No,No
+42,Female,No,No,Yes,Yes,No,Yes,Daily,Excellent,No,No Access,Curiosity,No,No
+21,Female,Yes,No,Yes,Yes,No,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+55,Female,No,Yes,No,Yes,Yes,Yes,Rarely,Excellent,No,Hard,Stress Relief,Yes,No
+27,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Easy,Stress Relief,No,Yes
+53,Female,No,No,Yes,Yes,No,Yes,Daily,Excellent,No,Easy,Other,Yes,No
+41,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Stress Relief,Yes,Yes
+30,Female,Yes,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Easy,Stress Relief,Yes,Yes
+22,Male,No,Yes,No,Yes,No,Yes,Rarely,Excellent,No,No Access,No Motivation,No,No
+27,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,No Access,No Motivation,Yes,No
+45,Female,No,No,Yes,Yes,Yes,Yes,Daily,Average,Yes,Easy,No Motivation,No,Yes
+56,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Poor,No,Hard,Stress Relief,Yes,Yes
+44,Female,No,No,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Curiosity,No,No
+55,Female,Yes,No,Yes,Yes,Yes,Yes,Regularly,Poor,No,Hard,Curiosity,Yes,Yes
+41,Male,Yes,No,Yes,Yes,Yes,No,Regularly,Excellent,Yes,No Access,Fit In,Yes,Yes
+51,Male,No,No,No,Yes,No,No,Rarely,Excellent,Yes,Hard,Stress Relief,No,No
+24,Male,No,Yes,Yes,Yes,No,Yes,Daily,Average,No,Easy,Other,Yes,No
+21,Female,Yes,Yes,Yes,No,No,Yes,Occasionally,Average,Yes,No Access,Fit In,Yes,Yes
+25,Female,No,Yes,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,No Motivation,Yes,Yes
+40,Female,No,Yes,Yes,No,No,Yes,Daily,Excellent,Yes,Hard,Curiosity,No,Yes
+49,Male,Yes,No,No,Yes,No,No,Regularly,Excellent,No,Easy,No Motivation,No,No
+44,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,No,Yes
+52,Female,No,Yes,Yes,No,Yes,No,Occasionally,Excellent,Yes,Easy,Stress Relief,No,Yes
+37,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Other,No,No
+54,Female,Yes,No,No,Yes,Yes,No,Rarely,Excellent,Yes,Hard,Fit In,Yes,No
+29,Female,No,No,Yes,No,Yes,No,Regularly,Average,No,Easy,Curiosity,No,No
+56,Female,No,Yes,Yes,No,Yes,No,Occasionally,Average,Yes,Hard,Curiosity,Yes,No
+18,Female,No,No,No,Yes,Yes,No,Occasionally,Average,No,Easy,Curiosity,No,No
+18,Female,No,Yes,No,No,No,Yes,Rarely,Average,No,No Access,Fit In,No,No
+46,Female,Yes,No,No,Yes,Yes,No,Daily,Excellent,Yes,Easy,Curiosity,No,No
+43,Female,No,No,No,No,No,Yes,Regularly,Poor,Yes,No Access,Other,Yes,Yes
+22,Male,No,Yes,Yes,No,No,Yes,Regularly,Excellent,No,Easy,Stress Relief,Yes,Yes
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+43,Female,No,Yes,Yes,No,Yes,Yes,Daily,Excellent,Yes,Hard,Stress Relief,No,Yes
+53,Female,No,Yes,No,Yes,Yes,No,Rarely,Average,No,Hard,Curiosity,Yes,No
+58,Male,No,No,No,Yes,Yes,No,Regularly,Poor,Yes,Easy,Other,No,Yes
+51,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+19,Female,Yes,Yes,No,Yes,Yes,No,Regularly,Average,No,Hard,Curiosity,Yes,No
+38,Male,No,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Stress Relief,No,Yes
+49,Male,Yes,Yes,Yes,Yes,Yes,Yes,Daily,Poor,Yes,No Access,Curiosity,Yes,Yes
+53,Male,No,No,Yes,No,Yes,No,Daily,Average,Yes,No Access,Other,No,Yes
+25,Female,No,No,Yes,Yes,No,No,Rarely,Poor,Yes,Hard,Curiosity,No,Yes
+51,Female,No,No,No,Yes,No,Yes,Rarely,Excellent,No,No Access,Stress Relief,Yes,No
+27,Male,Yes,No,No,No,No,No,Occasionally,Poor,Yes,Easy,Curiosity,No,No
+41,Female,Yes,No,Yes,No,No,No,Occasionally,Average,No,Hard,Curiosity,No,No
+44,Male,Yes,No,No,No,Yes,No,Daily,Average,Yes,No Access,Other,Yes,No
+45,Male,Yes,Yes,No,Yes,No,No,Occasionally,Excellent,Yes,Hard,Curiosity,No,No
+51,Male,No,No,No,Yes,No,No,Rarely,Excellent,Yes,Hard,Stress Relief,No,No
+25,Male,Yes,Yes,No,Yes,No,Yes,Regularly,Poor,Yes,Hard,Other,Yes,Yes
+36,Female,No,No,No,Yes,Yes,No,Occasionally,Excellent,No,Hard,Other,No,No
+28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Rarely,Excellent,Yes,Hard,Curiosity,No,No
+60,Female,No,No,Yes,Yes,No,No,Occasionally,Average,Yes,Hard,Curiosity,Yes,No
+18,Female,Yes,No,No,Yes,No,No,Occasionally,Average,Yes,Hard,Curiosity,No,No
+39,Male,No,Yes,No,Yes,No,Yes,Daily,Average,Yes,Easy,Curiosity,Yes,No
+42,Male,Yes,Yes,Yes,No,No,No,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+18,Male,Yes,No,Yes,No,Yes,Yes,Occasionally,Average,No,Hard,Other,No,No
+60,Male,No,Yes,Yes,No,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+26,Male,Yes,Yes,No,Yes,Yes,Yes,Daily,Average,No,Hard,Other,Yes,No
+42,Female,Yes,No,No,No,No,Yes,Daily,Poor,No,No Access,No Motivation,Yes,No
+28,Female,No,Yes,No,No,Yes,No,Regularly,Excellent,Yes,Hard,Curiosity,No,No
+22,Female,No,Yes,No,Yes,Yes,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+52,Female,No,Yes,Yes,No,No,Yes,Daily,Poor,No,Easy,Stress Relief,No,Yes
+20,Male,Yes,No,No,No,No,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+47,Female,No,Yes,Yes,Yes,Yes,No,Occasionally,Average,Yes,No Access,Curiosity,Yes,No
+21,Female,Yes,No,Yes,Yes,No,No,Daily,Excellent,Yes,Hard,Fit In,Yes,Yes
+25,Female,No,Yes,No,Yes,Yes,No,Regularly,Poor,Yes,Hard,No Motivation,Yes,Yes
+31,Male,Yes,Yes,Yes,Yes,No,Yes,Regularly,Average,No,Hard,Stress Relief,Yes,Yes
+57,Female,Yes,No,Yes,No,Yes,Yes,Occasionally,Poor,Yes,Hard,Other,Yes,Yes
+23,Female,No,No,Yes,No,Yes,No,Rarely,Poor,No,No Access,Fit In,Yes,Yes
+24,Male,No,Yes,Yes,Yes,No,Yes,Daily,Average,No,Easy,Other,Yes,No
+39,Male,No,No,Yes,Yes,No,No,Rarely,Average,Yes,Hard,Other,No,No
+41,Female,No,Yes,Yes,No,No,No,Regularly,Poor,Yes,Hard,Other,No,Yes
+30,Female,No,No,Yes,No,Yes,No,Daily,Poor,Yes,No Access,No Motivation,No,Yes
+54,Male,Yes,Yes,Yes,No,Yes,Yes,Occasionally,Average,Yes,Easy,Fit In,No,Yes
+35,Male,No,No,No,Yes,Yes,No,Daily,Excellent,Yes,No Access,Stress Relief,Yes,Yes
+51,Male,Yes,Yes,No,Yes,Yes,Yes,Rarely,Poor,No,Hard,Other,Yes,No
+27,Male,Yes,No,No,No,No,No,Occasionally,Poor,Yes,Easy,Curiosity,No,No
+53,Female,Yes,No,No,Yes,No,Yes,Occasionally,Poor,No,No Access,No Motivation,No,No
+46,Male,Yes,No,No,No,No,Yes,Regularly,Average,No,Hard,Fit In,No,No
+30,Male,Yes,Yes,Yes,Yes,No,No,Daily,Average,Yes,Hard,Curiosity,No,Yes
+41,Male,No,Yes,Yes,Yes,No,No,Regularly,Excellent,No,No Access,No Motivation,No,No
+51,Male,Yes,Yes,Yes,No,Yes,No,Rarely,Poor,No,Hard,Stress Relief,No,Yes
+19,Male,Yes,Yes,Yes,Yes,No,Yes,Occasionally,Average,No,Easy,No Motivation,No,No
+21,Female,Yes,No,No,No,Yes,No,Occasionally,Poor,Yes,No Access,Fit In,No,Yes
+58,Male,Yes,Yes,No,Yes,No,Yes,Occasionally,Average,Yes,Easy,No Motivation,No,No
+24,Male,No,No,Yes,Yes,Yes,No,Regularly,Average,No,No Access,Curiosity,Yes,No
+27,Female,No,No,Yes,Yes,No,No,Regularly,Average,Yes,No Access,Fit In,No,Yes
+25,Female,Yes,No,Yes,No,No,No,Occasionally,Excellent,Yes,No Access,Fit In,Yes,Yes
+49,Male,Yes,No,No,Yes,No,No,Regularly,Excellent,No,Easy,No Motivation,No,No
+32,Male,Yes,No,No,No,No,Yes,Rarely,Poor,Yes,Easy,Other,Yes,No
+57,Female,Yes,No,No,No,Yes,Yes,Daily,Poor,Yes,No Access,Fit In,No,Yes
+52,Male,Yes,No,Yes,No,No,No,Rarely,Average,Yes,Hard,No Motivation,Yes,No
+35,Male,Yes,Yes,Yes,No,Yes,Yes,Rarely,Excellent,Yes,Easy,No Motivation,No,No
+59,Female,No,Yes,No,No,No,Yes,Rarely,Excellent,Yes,Easy,Stress Relief,No,No
+37,Female,Yes,No,No,Yes,No,No,Rarely,Average,No,Hard,Fit In,Yes,No
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Rarely,Poor,Yes,Easy,Stress Relief,Yes,Yes
+44,Male,No,No,Yes,Yes,No,No,Occasionally,Poor,Yes,Hard,Curiosity,No,Yes
+57,Male,Yes,Yes,No,Yes,No,Yes,Daily,Poor,No,Hard,Fit In,No,Yes
+47,Female,Yes,Yes,No,Yes,No,Yes,Occasionally,Excellent,No,Hard,Stress Relief,No,No
+52,Male,Yes,No,Yes,Yes,No,Yes,Regularly,Average,No,No Access,Fit In,Yes,Yes
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Daily,Excellent,No,No Access,Curiosity,No,No
+34,Female,Yes,Yes,No,No,Yes,Yes,Occasionally,Poor,No,No Access,Fit In,Yes,No
+54,Female,Yes,No,Yes,No,Yes,No,Daily,Excellent,Yes,No Access,Curiosity,No,Yes
+45,Female,No,No,Yes,Yes,Yes,Yes,Daily,Average,Yes,Easy,No Motivation,No,Yes
+22,Male,Yes,Yes,Yes,Yes,Yes,No,Rarely,Poor,Yes,Easy,Fit In,No,Yes
+34,Female,Yes,Yes,No,No,No,No,Occasionally,Excellent,Yes,No Access,Other,No,No
+26,Female,No,No,No,No,Yes,No,Occasionally,Poor,No,Hard,Stress Relief,Yes,No
+44,Male,Yes,Yes,Yes,Yes,Yes,No,Occasionally,Average,No,No Access,Other,No,No
+56,Female,No,Yes,No,Yes,Yes,Yes,Regularly,Excellent,Yes,Easy,Fit In,Yes,Yes
+24,Female,Yes,No,Yes,No,No,Yes,Occasionally,Poor,No,No Access,Stress Relief,No,Yes
+54,Male,No,Yes,Yes,Yes,No,No,Occasionally,Excellent,Yes,Hard,Stress Relief,Yes,Yes
+20,Male,Yes,Yes,No,No,No,Yes,Daily,Excellent,No,Hard,No Motivation,Yes,No
+28,Male,Yes,Yes,Yes,Yes,No,Yes,Rarely,Poor,Yes,No Access,Other,No,Yes
+29,Male,Yes,Yes,Yes,Yes,No,No,Occasionally,Average,No,No Access,Curiosity,No,No
+19,Male,No,Yes,No,No,No,No,Regularly,Excellent,Yes,No Access,Fit In,No,Yes
+24,Female,No,No,Yes,Yes,No,No,Daily,Excellent,Yes,No Access,No Motivation,No,Yes
+42,Male,No,No,Yes,No,No,Yes,Rarely,Average,No,Hard,Stress Relief,Yes,No
+31,Female,No,No,Yes,No,Yes,No,Regularly,Poor,No,No Access,Fit In,Yes,Yes
+39,Female,No,No,Yes,Yes,No,Yes,Occasionally,Poor,No,Easy,Curiosity,No,No
+19,Male,No,Yes,No,No,No,No,Regularly,Excellent,Yes,No Access,Fit In,No,Yes
+41,Male,Yes,Yes,No,Yes,Yes,Yes,Regularly,Average,Yes,Hard,Stress Relief,Yes,Yes
