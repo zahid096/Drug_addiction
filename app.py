@@ -2,11 +2,11 @@ from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import pickle
 import warnings
+
 warnings.filterwarnings('ignore')
 
 app = Flask(__name__)
 
-# Load model
 with open('best_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
@@ -38,10 +38,8 @@ FIELD_OPTIONS = {
 
 def encode_input(data):
     encoded = {}
-
     for col in FEATURE_COLUMNS:
         value = data.get(col, '')
-
         if col == 'age':
             encoded[col] = float(value) if value else 0
         else:
@@ -49,14 +47,11 @@ def encode_input(data):
                 encoded[col] = label_encoders[col].transform([value])[0]
             except:
                 encoded[col] = 0
-
     return encoded
-
 
 @app.route('/')
 def home():
     return render_template('index.html', field_options=FIELD_OPTIONS)
-
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -67,7 +62,6 @@ def predict():
             return jsonify({'error': 'Invalid age'}), 400
 
         encoded = encode_input(form_data)
-
         df = pd.DataFrame([encoded])[FEATURE_COLUMNS]
 
         pred = model.predict(df)[0]
@@ -83,7 +77,6 @@ def predict():
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
-
 
 if __name__ == '__main__':
     app.run(debug=True)
