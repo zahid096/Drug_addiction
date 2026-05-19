@@ -20,12 +20,12 @@
             <form id="predictionForm">
                 <div class="form-grid">
                     <div class="form-group">
-                        <label for="age">Age *</label>
+                        <label for="age">Age </label>
                         <input type="number" id="age" name="age" required min="18" max="100" placeholder="Enter age" />
                     </div>
 
                     <div class="form-group">
-                        <label for="gender">Gender *</label>
+                        <label for="gender">Gender </label>
                         <select id="gender" name="gender" required>
                             <option value="">Select gender</option>
                             {% for option in field_options.gender %}
@@ -35,7 +35,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="family_history_of_addiction">Family History of Addiction *</label>
+                        <label for="family_history_of_addiction">Family History of Addiction (Anyone in family had
+                            addiction before)</label>
                         <select id="family_history_of_addiction" name="family_history_of_addiction" required>
                             <option value="">Select option</option>
                             {% for option in field_options.family_history_of_addiction %}
@@ -45,7 +46,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="mental_health_issues">Mental Health Issues *</label>
+                        <label for="mental_health_issues">Mental Health Issues (Any mental problem like stress or
+                            depression)</label>
                         <select id="mental_health_issues" name="mental_health_issues" required>
                             <option value="">Select option</option>
                             {% for option in field_options.mental_health_issues %}
@@ -55,7 +57,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="past_drug_use">Past Drug Use *</label>
+                        <label for="past_drug_use">Past Drug Use (Used drugs before)</label>
                         <select id="past_drug_use" name="past_drug_use" required>
                             <option value="">Select option</option>
                             {% for option in field_options.past_drug_use %}
@@ -65,7 +67,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="peer_pressure">Peer Pressure *</label>
+                        <label for="peer_pressure">Peer Pressure (Friends force or influence them)</label>
                         <select id="peer_pressure" name="peer_pressure" required>
                             <option value="">Select option</option>
                             {% for option in field_options.peer_pressure %}
@@ -75,7 +77,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="stress_or_trauma">Stress or Trauma *</label>
+                        <label for="stress_or_trauma">Stress or Trauma (Had stress or sad life events)</label>
                         <select id="stress_or_trauma" name="stress_or_trauma" required>
                             <option value="">Select option</option>
                             {% for option in field_options.stress_or_trauma %}
@@ -85,7 +87,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="social_isolation">Social Isolation *</label>
+                        <label for="social_isolation">Social Isolation (Feeling isolated or disconnected from
+                            others)</label>
                         <select id="social_isolation" name="social_isolation" required>
                             <option value="">Select option</option>
                             {% for option in field_options.social_isolation %}
@@ -95,7 +98,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="how_often_they_use_drugs">How Often They Use Drugs *</label>
+                        <label for="how_often_they_use_drugs">How Often They Use Drugs (Frequency of drug use)</label>
                         <select id="how_often_they_use_drugs" name="how_often_they_use_drugs" required>
                             <option value="">Select option</option>
                             {% for option in field_options.how_often_they_use_drugs %}
@@ -105,7 +108,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="work_or_school_problems">Work or School Problems *</label>
+                        <label for="work_or_school_problems">Work or School (Performance)</label>
                         <select id="work_or_school_problems" name="work_or_school_problems" required>
                             <option value="">Select option</option>
                             {% for option in field_options.work_or_school_problems %}
@@ -115,7 +118,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="health_problems">Health Problems *</label>
+                        <label for="health_problems">Health Problems (Any health issue)</label>
                         <select id="health_problems" name="health_problems" required>
                             <option value="">Select option</option>
                             {% for option in field_options.health_problems %}
@@ -125,7 +128,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="access_to_drugs">Access to Drugs *</label>
+                        <label for="access_to_drugs">Access to Drugs (Easy to get drugs)</label>
                         <select id="access_to_drugs" name="access_to_drugs" required>
                             <option value="">Select option</option>
                             {% for option in field_options.access_to_drugs %}
@@ -135,7 +138,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="why_they_use_drugs">Why They Use Drugs *</label>
+                        <label for="why_they_use_drugs">Why They Use Drugs (Reasons for drug use)</label>
                         <select id="why_they_use_drugs" name="why_they_use_drugs" required>
                             <option value="">Select option</option>
                             {% for option in field_options.why_they_use_drugs %}
@@ -145,7 +148,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="trying_to_quit">Trying to Quit *</label>
+                        <label for="trying_to_quit">Trying to Quit (Trying to stop drugs)</label>
                         <select id="trying_to_quit" name="trying_to_quit" required>
                             <option value="">Select option</option>
                             {% for option in field_options.trying_to_quit %}
